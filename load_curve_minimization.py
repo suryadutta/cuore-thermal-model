@@ -11,9 +11,11 @@ import click
 def get_power(test_data):
     return np.divide(np.power(test_data.VBol,2),test_data.RBol)
 
-def neg_loglike(R0,T0):
+def neg_loglike(arr):
 
     try:
+
+        (R0,T0) = tuple(arr)
 
         start_time = time.time()
         
@@ -45,10 +47,10 @@ def neg_loglike(R0,T0):
         print('Model Failed')
         return 1e10
 
-@click.command()
-@click.option('--min_method', prompt='Method', help='Minimization Method', type=str)
+#@click.command()
+#@click.option('--min_method', prompt='Method', help='Minimization Method', type=str)
 
-def main(min_method):
+def main():
     #res = minimize(neg_loglike, [R0,T0], args=(data.VBias,alpha,beta,k,Rl), method = min_method, options={'disp': True})
     
     #print(res.x)
