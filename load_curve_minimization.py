@@ -5,20 +5,25 @@ import math
 from model import getLoadCurve, getCUOREData
 from scipy.stats import norm
 from scipy.optimize import minimize
+from skopt import gp_minimize
 import click
 
 def get_power(test_data):
     return np.divide(np.power(test_data.VBol,2),test_data.RBol)
 
-def neg_loglike(circuit_params, VBias, alpha, beta, k, Rl, prior_sigma = 1, verbose=True):
+def neg_loglike(R0,T0):
 
     try:
 
         start_time = time.time()
         
-        (R0, T0) = tuple(circuit_params)
+        global alpha, beta, k, Rl, data
 
-        model = getLoadCurve(VBias,alpha,beta,k,R0,Rl,T0)
+        prior_sigma = 1
+
+        verbose = True
+
+        model = getLoadCurve(data.VBias,alpha,beta,k,R0,Rl,T0)
 
         log_like_power = -1*norm(get_power(model),prior_sigma).logpdf(get_power(data)).sum()
 
@@ -32,7 +37,7 @@ def neg_loglike(circuit_params, VBias, alpha, beta, k, Rl, prior_sigma = 1, verb
         iteration_counter += 1
         
         if verbose:
-            print("Iteration {0} finished in {1} minutes: {2} with Log Likelihood {3}".format(iteration_counter,time_taken,circuit_params,round(log_like_power,2)))
+            print("Iteration {0} finished in {1} minutes: {2} with Log Likelihood {3}".format(iteration_counter,time_taken,[R0,T0],round(log_like_power,2)))
         
         return log_like_power
 
@@ -44,8 +49,11 @@ def neg_loglike(circuit_params, VBias, alpha, beta, k, Rl, prior_sigma = 1, verb
 @click.option('--min_method', prompt='Method', help='Minimization Method', type=str)
 
 def main(min_method):
-    res = minimize(neg_loglike, [R0,T0], args=(data.VBias,alpha,beta,k,Rl), method = min_method, options={'disp': True})
-    print(res.x)
+    #res = minimize(neg_loglike, [R0,T0], args=(data.VBias,alpha,beta,k,Rl), method = min_method, options={'disp': True})
+    
+    #print(res.x)
+
+    print(gp_minimize(neg_loglike, [(0.5, 3),(5,8)]))
 
 data = getCUOREData(486)
 
