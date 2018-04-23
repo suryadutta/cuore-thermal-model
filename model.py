@@ -9,6 +9,30 @@ import matplotlib.pyplot as plt
 from scipy.interpolate import spline
 from decimal import Decimal
 
+def getCUOREData(channel):
+    base_dir = 'load_curve_data'
+    run = 301301
+
+    path = os.path.join(*[base_dir,'run{0}'.format(run),'LoadCurveData_run{0}_chan{1}.txt'.format(run,channel)])
+
+    def skip_to(fle, line,**kwargs):
+        if os.stat(fle).st_size == 0:
+            raise ValueError("File is empty")
+        with open(fle) as f:
+            pos = 0
+            cur_line = f.readline()
+            while not cur_line.startswith(line):
+                pos = f.tell()
+                cur_line = f.readline()
+            f.seek(pos)
+            return pd.read_csv(f, **kwargs)
+
+    data = skip_to(path, 'Vbias', delim_whitespace=True)
+    data = data.iloc[:,:4]
+    data.columns=['VBias','VBol','IBol','RBol']
+    data = data[data.VBias>0] #only keep positive bias voltages
+    return data
+
 def getConvergentTemps(alpha,beta,k,R0,Rl,T0,Cp,s,gamma,Vb,
                        burnin_stepSize=1e-4,burnin_t=300,
                        temp_ratio=1e-7, feedback_ratio=1e-4,
@@ -260,7 +284,34 @@ def runFullModel(alpha,beta,k,R0,Rl,T0,Cp,s,gamma,Vb):
 
     return [Vb, b_data_burnin, feedback_data_burnin, r_data_burnin, a_data_pulse, b_data_pulse, c_data_pulse, d_data_pulse, e_data_pulse, feedback_data_pulse, r_data_pulse]
 
-def getLoadCurve(VBias,alpha,beta,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5):
+def getLoadCurve(VBias,alpha,beta,k,R0,Rl,T0,Cp=5e-10,s=0.015,gamma=0.5):
+
+    modeled_data = pd.DataFrame(columns=['VBias','VBol','RBol','IBol'])
+        
+    pool = mp.Pool(processes=len(VBias))
+    results = [pool.apply_async(getConvergentTemps, 
+                                args=(alpha,beta,k,R0,Rl,T0,Cp,s,gamma,Vb)) 
+               for Vb in VBias]
+    
+    results = [p.get() for p in results]
+    results.sort()
+
+    for result in results:
+
+        VBol = result[3][-1]
+        RBol = result[4][-1]
+        IBol = VBol/RBol
+        df = pd.DataFrame([(result[1],VBol,RBol,IBol)],columns=['VBias','VBol','RBol','IBol'])
+        modeled_data = modeled_data.append(df)
+
+    #clean up
+    del results
+    pool.close()
+    pool.join()
+    
+    return modeled_data
+
+def getFullModel(VBias,alpha,beta,k,R0,Rl,T0,Cp=5e-10,s=0.015,gamma=0.5):
 
     modeled_data = pd.DataFrame(columns=['VBias','VBol','RBol','IBol'])
         

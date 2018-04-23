@@ -9,30 +9,7 @@ import matplotlib.pyplot as plt
 from scipy.interpolate import spline
 from decimal import Decimal
 
-from model import getLoadCurve
-
-base_dir = 'load_curve_data'
-channel = 486
-run = 301301
-
-path = os.path.join(*[base_dir,'run{0}'.format(run),'LoadCurveData_run{0}_chan{1}.txt'.format(run,channel)])
-
-def skip_to(fle, line,**kwargs):
-    if os.stat(fle).st_size == 0:
-        raise ValueError("File is empty")
-    with open(fle) as f:
-        pos = 0
-        cur_line = f.readline()
-        while not cur_line.startswith(line):
-            pos = f.tell()
-            cur_line = f.readline()
-        f.seek(pos)
-        return pd.read_csv(f, **kwargs)
-
-data = skip_to(path, 'Vbias', delim_whitespace=True)
-data = data.iloc[:,:4]
-data.columns=['VBias','VBol','IBol','RBol']
-data = data[data.VBias>0] #only keep positive bias voltages
+from model import getLoadCurve, getCUOREData
 
 alpha_params = {
     'a1': 2.7e-8,      # phonon 
@@ -93,7 +70,7 @@ for index, parameter in enumerate(alpha):
         alpha_test = alpha[:]
         alpha_test[index] = new_parameter
         print("New Value: {0}".format(alpha_test[index]))
-        model, pulse = getLoadCurve(data.VBias,alpha_test,beta,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
+        model, pulse = getLoadCurve(getCUOREData(486).VBias,alpha_test,beta,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
         print(model)
         print('\n')
 
@@ -129,7 +106,7 @@ for index, parameter in enumerate(beta):
         beta_test = beta[:]
         beta_test[index] = new_parameter
         print("New Value: {0}".format(beta_test[index]))
-        model, pulse = getLoadCurve(data.VBias,alpha,beta_test,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
+        model, pulse = getLoadCurve(getCUOREData(486).VBias,alpha,beta_test,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
         print(model)
         print('\n')
 
@@ -161,7 +138,7 @@ for index, parameter in enumerate(k):
         k_test = k[:]
         k_test[index] = new_parameter
         print("New Value: {0}".format(k_test[index]))
-        model, pulse = getLoadCurve(data.VBias,alpha,beta,k_test,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
+        model, pulse = getLoadCurve(getCUOREData(486).VBias,alpha,beta,k_test,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
         print(model)
         print('\n')
 
@@ -189,12 +166,14 @@ for index, parameter in enumerate([R0,T0,Rl,Cp]):
     fig_lc, ax_lc = plt.subplots()
     fig_pulse, ax_pulse = plt.subplots()
 
+    pulse_axes_list = ['ax_pulse{0}'.format(index) for index in range(7)]
+
     for new_parameter in [parameter*(1-3*ratio),parameter*(1-2*ratio), parameter*(1-ratio),parameter,parameter*(1+ratio),parameter*(1+2*ratio),parameter*(1+3*ratio)]:
         circuit_test = [R0,T0,Rl,Cp][:]
         circuit_test[index] = new_parameter
         print("New Value: {0}".format(circuit_test[index]))
         R0_n,T0_n,Rl_n,Cp_n = tuple(circuit_test)
-        model, pulse = getLoadCurve(data.VBias,alpha,beta,k,R0_n,Rl_n,T0_n,Cp_n,s=0.015,gamma=0.5)
+        model, pulse = getLoadCurve(getCUOREData(486).VBias,alpha,beta,k,R0_n,Rl_n,T0_n,Cp_n,s=0.015,gamma=0.5)
         print(model)
         print('\n')
 
