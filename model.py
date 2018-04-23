@@ -4,7 +4,7 @@ import pandas as pd
 import time
 import multiprocessing as mp
 import math
-from tqdm import tqdm_notebook as tqdm
+from tqdm import tqdm
 import matplotlib.pyplot as plt
 from scipy.interpolate import spline
 from decimal import Decimal
@@ -225,8 +225,6 @@ def simulatePulse(alpha,beta,k,R0,Rl,T0,Cp,s,gamma,Vb,
             #active steps - model pulse
             for i in active_step_range:
                 
-                start_step = int((active_t/5)/active_stepSize)
-
                 #turn off power deposition
                 if (i>int((active_t/5)/active_stepSize) and i<int((dur + active_t/5)/active_stepSize)):
                     Ecrystal = event_energy
@@ -295,76 +293,3 @@ def getLoadCurve(VBias,alpha,beta,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5):
     pool.join()
     
     return modeled_data, pulse
-
-base_dir = 'load_curve_data'
-channel = 486
-run = 301301
-
-path = os.path.join(*[base_dir,'run{0}'.format(run),'LoadCurveData_run{0}_chan{1}.txt'.format(run,channel)])
-
-def skip_to(fle, line,**kwargs):
-    if os.stat(fle).st_size == 0:
-        raise ValueError("File is empty")
-    with open(fle) as f:
-        pos = 0
-        cur_line = f.readline()
-        while not cur_line.startswith(line):
-            pos = f.tell()
-            cur_line = f.readline()
-        f.seek(pos)
-        return pd.read_csv(f, **kwargs)
-
-data = skip_to(path, 'Vbias', delim_whitespace=True)
-data = data.iloc[:,:4]
-data.columns=['VBias','VBol','IBol','RBol']
-data = data[data.VBias>0] #only keep positive bias voltages
-plt.figure()
-ax = plt.gca()
-ax.scatter(data.IBol,data.VBol)
-ax.set_xlabel('Current (pA)')
-ax.set_ylabel('Voltage (mV)')
-
-
-k_params = {
-    'k1': 2.34e-3,     # NTD Glue
-    'k2': 0.7,         # EP Coupling
-    'k3': 4.8e-5,      # NTD Gold Wire
-    'k4': 1.3e-3,      # Heater Glue
-    'k5': 3.2e-5,      # Heater Gold Wire
-    'k6': 4e-5,        # Crystal <-> Teflon Boundary
-    'k7': 1.25e-3      # Teflon <-> Heat Sink Boundary
-}
-
-R0 = 1.75
-s = .015
-Rl = 6e10
-T0 = 5.5
-gamma = 0.5
-Cp = 5e-10
-
-k = [k_params[param] for param in sorted(k_params)]
-
-alpha = [
-        2.7e-8,     # phonon 
-        9.9e-9,     # electron 
-        1e-11,       # heater 
-        2.29e-3,     # crystal 
-        2.11e-6,     # teflon first power
-        1.93e-4      # teflon third power
-    ]
-
-beta = [
-        3,           # NTD Glue 
-        4.37,        # EP Coupling
-        2.4,         # NTD Gold Wire
-        3,           # Heater Glue
-        2.4,         # Heater Gold Wire 
-        2,           # Crystal <-> Teflon Boundary
-        1            # Teflon <-> Heat Sink Boundary ]
-    ]  
-
-modeled_data, pulse = getLoadCurve(data.VBias,alpha,beta,k,R0,Rl,T0,Cp)
-
-print(modeled_data)
-print(pulse)
-plt.plot(pulse)
