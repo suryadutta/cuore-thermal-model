@@ -106,10 +106,10 @@ for index, parameter in enumerate(alpha):
         ax_pulse.plot(t,pulse,label='%.2E' % Decimal(str(new_parameter)))
 
     ax_lc.legend(loc='lower right', title=param_name)
-    ax_lc.savefig("plot_output/loadcurve_{0}.png".format(param_name), bbox_inches='tight')
+    fig_lc.savefig("plot_output/loadcurve_{0}.png".format(param_name), bbox_inches='tight')
 
     ax_pulse.legend(loc='upper right', title=param_name)
-    ax_pulse.savefig("plot_output/pulse_{0}.png".format(param_name), bbox_inches='tight')
+    fig_pulse.savefig("plot_output/pulse_{0}.png".format(param_name), bbox_inches='tight')
 
     time_taken = round((time.time()-start_time)/60.0,2)
     print('Done with parameter {0} in {1} mins'.format(param_name,time_taken))
@@ -142,10 +142,10 @@ for index, parameter in enumerate(beta):
         ax_pulse.plot(t,pulse,label='%.2E' % Decimal(str(new_parameter)))
 
     ax_lc.legend(loc='lower right', title=param_name)
-    ax_lc.savefig("plot_output/loadcurve_{0}.png".format(param_name), bbox_inches='tight')
+    fig_lc.savefig("plot_output/loadcurve_{0}.png".format(param_name), bbox_inches='tight')
 
     ax_pulse.legend(loc='upper right', title=param_name)
-    ax_pulse.savefig("plot_output/pulse_{0}.png".format(param_name), bbox_inches='tight')
+    fig_pulse.savefig("plot_output/pulse_{0}.png".format(param_name), bbox_inches='tight')
 
 for index, parameter in enumerate(k):
 
@@ -174,10 +174,10 @@ for index, parameter in enumerate(k):
         ax_pulse.plot(t,pulse,label='%.2E' % Decimal(str(new_parameter)))
 
     ax_lc.legend(loc='lower right', title=param_name)
-    ax_lc.savefig("plot_output/loadcurve_{0}.png".format(param_name), bbox_inches='tight')
+    fig_lc.savefig("plot_output/loadcurve_{0}.png".format(param_name), bbox_inches='tight')
 
     ax_pulse.legend(loc='upper right', title=param_name)
-    ax_pulse.savefig("plot_output/pulse_{0}.png".format(param_name), bbox_inches='tight')
+    fig_pulse.savefig("plot_output/pulse_{0}.png".format(param_name), bbox_inches='tight')
 
 for index, parameter in enumerate([R0,T0,Rl,Cp]):
 
@@ -207,7 +207,7 @@ for index, parameter in enumerate([R0,T0,Rl,Cp]):
         ax_pulse.plot(t,pulse,label='%.2E' % Decimal(str(new_parameter)))
 
     ax_lc.legend(loc='lower right', title=param_name)
-    ax_lc.savefig("plot_output/loadcurve_{0}.png".format(param_name), bbox_inches='tight')
+    fig_lc.savefig("plot_output/loadcurve_{0}.png".format(param_name), bbox_inches='tight')
 
     ax_pulse.legend(loc='upper right', title=param_name)
-    ax_pulse.savefig("plot_output/pulse_{0}.png".format(param_name), bbox_inches='tight')
+    fig_pulse.savefig("plot_output/pulse_{0}.png".format(param_name), bbox_inches='tight')

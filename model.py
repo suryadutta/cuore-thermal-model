@@ -12,7 +12,7 @@ from decimal import Decimal
 def getConvergentTemps(alpha,beta,k,R0,Rl,T0,Cp,s,gamma,Vb,
                        burnin_stepSize=1e-4,burnin_t=300,
                        temp_ratio=1e-7, feedback_ratio=1e-4,
-                       stop_at_convergence=True, verbose=True):         
+                       stop_at_convergence=True, verbose=False):         
     
     with np.errstate(invalid='raise'):
         try:
@@ -131,7 +131,7 @@ def simulatePulse(alpha,beta,k,R0,Rl,T0,Cp,s,gamma,Vb,
                   a=0.015,b=0.015,c=0.015,d=0.015,e=0.015,f=0,
                   event_energy = 4.0487e-13,
                   active_stepSize=1e-4,active_t=5,
-                  stop_at_convergence=True, verbose=True):
+                  stop_at_convergence=True, verbose=False):
     
     a_s, b_s, c_s, d_s, e_s, f_s = a, b, c, d, e, f
         
