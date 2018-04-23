@@ -1,0 +1,913 @@
+PAmpMax(mV) 	 VbiasAtPAmpMax(mV) 	 SNRmax 	 VbiasAtSNRMax(mV) 
+------------------------------------------------------
+ Channel 365
+VbolMax 0.0107532 @Vbias 4.50039
+Maximum of PAmp vs Ibol curve 0.0245113
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0213514		1.99888		0		 1.99888
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 366
+VbolMax 0.00763268 @Vbias 1.99783
+ Channel with no pulser; VbiasWP set to default value = 3 V 
+------------------------------------------------------
+ Channel 367
+VbolMax 0.0160239 @Vbias 4.50169
+Maximum of PAmp vs Ibol curve 0.0349342
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0310128		1.9998		0		 1.9998
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 368
+VbolMax 0.0150077 @Vbias 4.5033
+Maximum of PAmp vs Ibol curve 0.0311047
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0275037		1.99999		0		 1.99999
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 369
+VbolMax 0.0153492 @Vbias 4.50372
+Maximum of PAmp vs Ibol curve 0.0313253
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0277367		1.99881		0		 1.99881
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 370
+VbolMax 0.0154635 @Vbias 4.49997
+Maximum of PAmp vs Ibol curve 0.0332663
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.029539		2.00239		0		 2.00239
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 371
+VbolMax 0.0167423 @Vbias 4.50103
+Maximum of PAmp vs Ibol curve 0.045718
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0431284		1.99925		0		 1.99925
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 372
+VbolMax 0.0149454 @Vbias 4.50242
+Maximum of PAmp vs Ibol curve 0.0436295
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1 flexes in the pulse at max SNR 
+max SNR position 0
+0.0412395		2.00104		0		 2.00104
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 373
+VbolMax 0.0153366 @Vbias 4.50416
+Maximum of PAmp vs Ibol curve 0.0413956
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1 flexes in the pulse at max SNR 
+max SNR position 0
+0.0390628		1.99944		0		 1.99944
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 374
+VbolMax 0.0165091 @Vbias 4.50329
+Maximum of PAmp vs Ibol curve 0.0389592
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.036063		1.99986		0		 1.99986
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 375
+VbolMax 0.0162415 @Vbias 4.50077
+Maximum of PAmp vs Ibol curve 0.0721311
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0675535		1.99939		0		 1.99939
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 376
+VbolMax 0.0164216 @Vbias 4.50178
+Maximum of PAmp vs Ibol curve 0.0424721
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0396454		1.99859		0		 1.99859
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 377
+VbolMax 0.0164879 @Vbias 4.50238
+Maximum of PAmp vs Ibol curve 0.036868
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0338987		1.99966		0		 1.99966
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 378
+VbolMax 0.0145525 @Vbias 4.50231
+Maximum of PAmp vs Ibol curve 0.0356445
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0328335		2.00023		0		 2.00023
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 379
+VbolMax 0.0135317 @Vbias 4.50362
+Maximum of PAmp vs Ibol curve 0.0339939
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.031781		2.00165		0		 2.00165
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 380
+VbolMax 0.0167724 @Vbias 4.50469
+Maximum of PAmp vs Ibol curve 0.0372473
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.034357		2.00161		0		 2.00161
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 381
+VbolMax 0.015799 @Vbias 4.50154
+Maximum of PAmp vs Ibol curve 0.0340125
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0312891		2.00009		0		 2.00009
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 382
+VbolMax 0.016813 @Vbias 4.50096
+Maximum of PAmp vs Ibol curve 0.0364494
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.8 flexes in the pulse at max SNR 
+max SNR position 0
+0.0336388		1.99961		0		 1.99961
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 383
+VbolMax 0.0149491 @Vbias 4.50221
+Maximum of PAmp vs Ibol curve 0.0371366
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1 flexes in the pulse at max SNR 
+max SNR position 0
+0.0350536		1.99861		0		 1.99861
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 384
+VbolMax 0.0139881 @Vbias 4.50217
+Maximum of PAmp vs Ibol curve 0.034658
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0314623		2.00047		0		 2.00047
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 385
+VbolMax 0.0132125 @Vbias 4.50115
+Maximum of PAmp vs Ibol curve 0.0384677
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.035512		1.99995		0		 1.99995
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 386
+VbolMax 0.0131913 @Vbias 4.5033
+Maximum of PAmp vs Ibol curve 0.022332
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0193815		2.00085		0		 2.00085
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 387
+VbolMax 0.0161006 @Vbias 4.50151
+Maximum of PAmp vs Ibol curve 0.0346406
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0320581		1.99874		0		 1.99874
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 388
+VbolMax 0.0126346 @Vbias 4.50328
+Maximum of PAmp vs Ibol curve 0.0386849
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0356904		1.99967		0		 1.99967
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 389
+VbolMax 0.0173644 @Vbias 4.50413
+Maximum of PAmp vs Ibol curve 0.0394073
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.8 flexes in the pulse at max SNR 
+max SNR position 0
+0.0363856		2.00076		0		 2.00076
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 390
+VbolMax 0.0175695 @Vbias 4.50072
+Maximum of PAmp vs Ibol curve 0.0303532
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.8 flexes in the pulse at max SNR 
+max SNR position 0
+0.0269416		1.99974		0		 1.99974
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 417
+VbolMax 0.0159733 @Vbias 4.50132
+Maximum of PAmp vs Ibol curve 0.0387883
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.4 flexes in the pulse at max SNR 
+max SNR position 0
+0.0358257		1.99814		0		 1.99814
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 418
+VbolMax 0.0184489 @Vbias 4.50293
+Maximum of PAmp vs Ibol curve 0.0401239
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1 flexes in the pulse at max SNR 
+max SNR position 0
+0.0373681		1.99921		0		 1.99921
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 419
+VbolMax 0.0128949 @Vbias 4.50265
+Maximum of PAmp vs Ibol curve 0.0206962
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0179428		1.99868		0		 1.99868
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 420
+VbolMax 0.0156514 @Vbias 4.50419
+Maximum of PAmp vs Ibol curve 0.0243711
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0216697		1.99864		0		 1.99864
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 421
+VbolMax 0.0144016 @Vbias 4.50375
+Maximum of PAmp vs Ibol curve 0.0292529
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.4 flexes in the pulse at max SNR 
+max SNR position 0
+0.0259321		1.99757		0		 1.99757
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 422
+VbolMax 0.0144834 @Vbias 4.50375
+Maximum of PAmp vs Ibol curve 0.0336815
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.030489		1.99954		0		 1.99954
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 423
+VbolMax 0.0162349 @Vbias 4.50254
+Maximum of PAmp vs Ibol curve 0.0302148
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0272381		1.99699		0		 1.99699
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 424
+VbolMax 0.014064 @Vbias 4.50266
+Maximum of PAmp vs Ibol curve 0.0349801
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0322572		1.99873		0		 1.99873
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 425
+VbolMax 0.0186995 @Vbias 4.50182
+Maximum of PAmp vs Ibol curve 0.0396635
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0363804		1.99962		0		 1.99962
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 426
+VbolMax 0.0156819 @Vbias 4.50277
+Maximum of PAmp vs Ibol curve 0.0386359
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.8 flexes in the pulse at max SNR 
+max SNR position 0
+0.0355444		1.99835		0		 1.99835
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 427
+VbolMax 0.0130343 @Vbias 4.50172
+Maximum of PAmp vs Ibol curve 0.0352432
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 3.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0322034		1.99855		0		 1.99855
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 428
+VbolMax 0.0163318 @Vbias 4.50212
+Maximum of PAmp vs Ibol curve 0.0383928
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0361525		1.99887		0		 1.99887
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 429
+VbolMax 0.0169535 @Vbias 4.50132
+Maximum of PAmp vs Ibol curve 0.0446916
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.4 flexes in the pulse at max SNR 
+max SNR position 0
+0.0418328		1.99711		0		 1.99711
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 430
+VbolMax 0.0168626 @Vbias 4.50404
+Maximum of PAmp vs Ibol curve 0.0362715
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0335844		1.99761		0		 1.99761
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 431
+VbolMax 0.0173317 @Vbias 4.50104
+Maximum of PAmp vs Ibol curve 0.0338042
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.4 flexes in the pulse at max SNR 
+max SNR position 0
+0.03076		2.00018		0		 2.00018
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 432
+VbolMax 0.0181613 @Vbias 4.50112
+Maximum of PAmp vs Ibol curve 0.0226985
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0195485		1.99936		0		 1.99936
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 433
+VbolMax 0.0155539 @Vbias 4.49972
+Maximum of PAmp vs Ibol curve 0.0306126
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.027381		1.99779		0		 1.99779
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 434
+VbolMax 0.0153876 @Vbias 4.50136
+Maximum of PAmp vs Ibol curve 0.0388351
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0 flexes in the pulse at max SNR 
+max SNR position 0
+0.0355926		1.9988		0		 1.9988
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 435
+VbolMax 0.0162685 @Vbias 4.50194
+Maximum of PAmp vs Ibol curve 0.0360259
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0328326		1.99729		0		 1.99729
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 436
+VbolMax 0.0147519 @Vbias 4.50395
+Maximum of PAmp vs Ibol curve 0.0364035
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0336748		1.99846		0		 1.99846
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 437
+VbolMax 0.0145334 @Vbias 4.50282
+Maximum of PAmp vs Ibol curve 0.0361296
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0330305		2.00042		0		 2.00042
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 438
+VbolMax 0.0141485 @Vbias 4.50201
+Maximum of PAmp vs Ibol curve 0.0285327
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.25 flexes in the pulse at max SNR 
+max SNR position 0
+0.0252517		1.99819		0		 1.99819
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 439
+VbolMax 0.014665 @Vbias 4.50416
+Maximum of PAmp vs Ibol curve 0.0420789
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0390897		1.99651		0		 1.99651
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 440
+VbolMax 0.0190591 @Vbias 4.50306
+Maximum of PAmp vs Ibol curve 0.0436498
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0403898		1.99709		0		 1.99709
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 441
+VbolMax 0.00997976 @Vbias 4.50276
+Maximum of PAmp vs Ibol curve 0.0241346
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.8 flexes in the pulse at max SNR 
+max SNR position 0
+0.0212563		1.99667		0		 1.99667
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 442
+VbolMax 0.0159082 @Vbias 4.50217
+	 Saturated channel or problematic channel (less than 3 good LC points); VbiasWP set to default value = 3 V 
+------------------------------------------------------
+ Channel 469
+VbolMax 0.0231394 @Vbias 4.5022
+Maximum of PAmp vs Ibol curve 0.0358315
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.033657		1.99632		0		 1.99632
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 470
+VbolMax 0.0258155 @Vbias 4.50258
+Maximum of PAmp vs Ibol curve 0.0442668
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0412811		2.00093		0		 2.00093
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 471
+VbolMax 0.0243923 @Vbias 4.50275
+Maximum of PAmp vs Ibol curve 0.0354223
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0 flexes in the pulse at max SNR 
+max SNR position 0
+0.0322158		1.99797		0		 1.99797
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 472
+VbolMax 0.0269772 @Vbias 4.50007
+Maximum of PAmp vs Ibol curve 0.0448916
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.4 flexes in the pulse at max SNR 
+max SNR position 0
+0.0412267		1.99887		0		 1.99887
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 473
+VbolMax 0.0219086 @Vbias 4.50406
+Maximum of PAmp vs Ibol curve 0.0393108
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.8 flexes in the pulse at max SNR 
+max SNR position 0
+0.0357992		1.99571		0		 1.99571
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 474
+VbolMax 0.0260039 @Vbias 4.50151
+Maximum of PAmp vs Ibol curve 0.05239
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0 flexes in the pulse at max SNR 
+max SNR position 0
+0.0503646		1.99761		0		 1.99761
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 475
+VbolMax 0.023895 @Vbias 4.50043
+Maximum of PAmp vs Ibol curve 0.0352039
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0320494		1.99831		0		 1.99831
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 476
+VbolMax 0.0243656 @Vbias 4.50188
+Maximum of PAmp vs Ibol curve 0.0474009
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0447197		1.99752		0		 1.99752
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 477
+VbolMax 0.0207083 @Vbias 2.99996
+Maximum of PAmp vs Ibol curve 0.0477069
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.4 flexes in the pulse at max SNR 
+max SNR position 0
+0.0428765		1.39666		0		 1.39666
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 478
+VbolMax 0.0218609 @Vbias 4.50091
+Maximum of PAmp vs Ibol curve 0.0485714
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0 flexes in the pulse at max SNR 
+max SNR position 0
+0.0458542		1.99934		0		 1.99934
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 479
+VbolMax 0.0247727 @Vbias 4.50352
+Maximum of PAmp vs Ibol curve 0.0249121
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.4 flexes in the pulse at max SNR 
+max SNR position 0
+0.0215261		1.99626		0		 1.99626
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 480
+VbolMax 0.0241497 @Vbias 4.50044
+Maximum of PAmp vs Ibol curve 0.0248127
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.8 flexes in the pulse at max SNR 
+max SNR position 0
+0.0215252		1.99549		0		 1.99549
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 481
+VbolMax 0.0235891 @Vbias 4.50265
+Maximum of PAmp vs Ibol curve 0.0465851
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.4 flexes in the pulse at max SNR 
+max SNR position 0
+0.0453853		1.99566		0		 1.99566
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 482
+VbolMax 0.0220121 @Vbias 4.50117
+Maximum of PAmp vs Ibol curve 0.0307232
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0277192		1.99866		0		 1.99866
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 483
+VbolMax 0.0204305 @Vbias 4.50337
+Maximum of PAmp vs Ibol curve 0.0340081
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.25 flexes in the pulse at max SNR 
+max SNR position 0
+0.0312122		1.99834		0		 1.99834
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 484
+VbolMax 0.0221216 @Vbias 4.5037
+Maximum of PAmp vs Ibol curve 0.0433027
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.25 flexes in the pulse at max SNR 
+max SNR position 0
+0.0403258		1.99917		0		 1.99917
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 485
+VbolMax 0.0213761 @Vbias 4.50093
+Maximum of PAmp vs Ibol curve 0.040047
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.75 flexes in the pulse at max SNR 
+max SNR position 0
+0.0372755		1.99973		0		 1.99973
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 486
+VbolMax 0.0216055 @Vbias 4.50114
+Maximum of PAmp vs Ibol curve 0.043202
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0 flexes in the pulse at max SNR 
+max SNR position 0
+0.0421643		1.9972		0		 1.9972
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 487
+VbolMax 0.0205177 @Vbias 4.50314
+Maximum of PAmp vs Ibol curve 0.0369539
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.6 flexes in the pulse at max SNR 
+max SNR position 0
+0.0340631		1.99593		0		 1.99593
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 488
+VbolMax 0.0229045 @Vbias 4.49952
+Maximum of PAmp vs Ibol curve 0.0386047
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0354541		1.99842		0		 1.99842
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 489
+VbolMax 0.0227334 @Vbias 4.50337
+Maximum of PAmp vs Ibol curve 0.0411509
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.75 flexes in the pulse at max SNR 
+max SNR position 0
+0.0382474		1.99613		0		 1.99613
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 490
+VbolMax 0.0241603 @Vbias 4.50141
+Maximum of PAmp vs Ibol curve 0.0448095
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.5 flexes in the pulse at max SNR 
+max SNR position 0
+0.0423388		1.99704		0		 1.99704
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 491
+VbolMax 0.0191543 @Vbias 3.00295
+	 Saturated channel or problematic channel (less than 3 good LC points); VbiasWP set to default value = 3 V 
+------------------------------------------------------
+ Channel 492
+VbolMax 0.0243341 @Vbias 4.50198
+Maximum of PAmp vs Ibol curve 0.0501638
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 3.5 flexes in the pulse at max SNR 
+max SNR position 0
+0.0492213		1.99755		0		 1.99755
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 493
+VbolMax 0.0226429 @Vbias 4.50148
+Maximum of PAmp vs Ibol curve 0.0369009
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1 flexes in the pulse at max SNR 
+max SNR position 0
+0.0335681		1.99753		0		 1.99753
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 494
+VbolMax 0.0223877 @Vbias 4.5013
+Maximum of PAmp vs Ibol curve 0.0492658
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.25 flexes in the pulse at max SNR 
+max SNR position 0
+0.0466878		1.99887		0		 1.99887
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0

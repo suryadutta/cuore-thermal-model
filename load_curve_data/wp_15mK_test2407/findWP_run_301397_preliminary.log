@@ -1,0 +1,4006 @@
+PAmpMax(mV) 	 VbiasAtPAmpMax(mV) 	 SNRmax 	 VbiasAtSNRMax(mV) 
+------------------------------------------------------
+ Channel 1
+VbolMax 0.0238138 @Vbias 8.12073
+Maximum of PAmp vs Ibol curve 0.0377501
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 322.03
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0377501		4.46958		268.576		 5.27714
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.807555
+------------------------------------------------------
+ Channel 2
+This is an oscillating channel. Removing the unstable points from the lc 
+VbolMax 0.0247228 @Vbias 6.4985
+Maximum of PAmp vs Ibol curve 0.0353736
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 333.82
+There are 3.33333 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0353736		4.47041		333.82		 4.87094
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.400526
+------------------------------------------------------
+ Channel 3
+VbolMax 0.0106394 @Vbias 8.08056
+Maximum of PAmp vs Ibol curve 0.0278433
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 238.467
+There are 3.125 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.125
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+0.0278433		4.84915		238.467		 6.46605
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.6169
+------------------------------------------------------
+ Channel 4
+This is an oscillating channel. Removing the unstable points from the lc 
+VbolMax 0.0125705 @Vbias 6.03052
+Maximum of PAmp vs Ibol curve 0.0320391
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 255.867
+There are 3.28571 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 3.28571
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0320391		4.02254		255.867		 4.42271
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.400174
+------------------------------------------------------
+ Channel 5
+VbolMax 0.0244324 @Vbias 7.99719
+Maximum of PAmp vs Ibol curve 0.0364516
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 97.1326
+There are 3.33333 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0364516		4.00156		79.9371		 4.79881
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.797246
+------------------------------------------------------
+ Channel 6
+VbolMax 0.0227203 @Vbias 8.31602
+Maximum of PAmp vs Ibol curve 0.0407547
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 104.499
+There are 3.4 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0407547		3.96338		83.7695		 4.75353
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.790151
+------------------------------------------------------
+ Channel 7
+VbolMax 0.0131357 @Vbias 8.27572
+Maximum of PAmp vs Ibol curve 0.0493823
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 76.9252
+There are 4.4 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 4.4
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0493823		3.1544		57.8545		 3.94034
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.785947
+------------------------------------------------------
+ Channel 8
+VbolMax 0.0235261 @Vbias 8.52405
+Maximum of PAmp vs Ibol curve 0.0473094
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 187.555
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0473094		3.24973		156.401		 4.06296
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.813231
+------------------------------------------------------
+ Channel 9
+VbolMax 0.0210595 @Vbias 8.48143
+Maximum of PAmp vs Ibol curve 0.0338167
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 192.926
+There are 3.42857 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.42857
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0338167		4.44691		168.954		 5.24877
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.80186
+------------------------------------------------------
+ Channel 10
+VbolMax 0.0247106 @Vbias 8.44081
+Maximum of PAmp vs Ibol curve 0.0438101
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 382.663
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0438101		4.02083		364.022		 4.82263
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.801802
+------------------------------------------------------
+ Channel 11
+------------------------------------------------------
+ Channel 12
+VbolMax 0.0199651 @Vbias 8.33297
+Maximum of PAmp vs Ibol curve 0.03716
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 182.082
+There are 2.66667 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2.66667
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.03716		3.57734		158.25		 4.36601
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.788662
+------------------------------------------------------
+ Channel 13
+VbolMax 0.0230898 @Vbias 7.09241
+Maximum of PAmp vs Ibol curve 0.0409307
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 65.7725
+There are 3.5 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.5
+number of Flexes 3.55556
+number of Flexes 3.88889
+number of Flexes 3.9
+number of Flexes 4.5
+number of Flexes 4.22222
+number of Flexes 3.7
+number of Flexes 4.8
+number of Flexes 3.88889
+number of Flexes 3.8
+number of Flexes 4.625
+number of Flexes 4.66667
+This is a very noisy channel, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0409307		2.75882		55.1601		 3.55011
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.79129
+------------------------------------------------------
+ Channel 14
+VbolMax 0.0261526 @Vbias 8.48483
+Maximum of PAmp vs Ibol curve 0.0315693
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 263.116
+There are 3 flexes in the pulse at max SNR 
+max SNR position 16
+number of Flexes 3
+Deformed pulse: get as best point WP, the 16 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0315693		4.84843		256.891		 5.65655
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.808118
+------------------------------------------------------
+ Channel 15
+This is an oscillating channel. Removing the unstable points from the lc 
+VbolMax 0.0232411 @Vbias 5.68356
+Maximum of PAmp vs Ibol curve 0.0391833
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 279.062
+There are 2.625 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.625
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0391833		2.84352		279.062		 4.06393
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.22041
+------------------------------------------------------
+ Channel 16
+VbolMax 0.02591 @Vbias 8.48235
+Maximum of PAmp vs Ibol curve 0.0428146
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 363.392
+There are 2.375 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.375
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0428146		3.23247		350.543		 4.04379
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.811319
+------------------------------------------------------
+ Channel 17
+This is an oscillating channel. Removing the unstable points from the lc 
+VbolMax 0.0236142 @Vbias 7.23635
+Maximum of PAmp vs Ibol curve 0.00851971
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 34.1434
+There are 2.55556 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.55556
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.00845499		3.21879		29.8679		 4.02076
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.801968
+------------------------------------------------------
+ Channel 18
+This is an oscillating channel. Removing the unstable points from the lc 
+VbolMax 0.0130777 @Vbias 5.92084
+Maximum of PAmp vs Ibol curve 0.0449387
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 404.309
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0449387		3.69984		404.309		 4.44044
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.740604
+------------------------------------------------------
+ Channel 19
+VbolMax 0.0244263 @Vbias 8.3351
+Maximum of PAmp vs Ibol curve 0.0458795
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 275.412
+There are 2.875 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.875
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0458795		3.57416		233.46		 4.36676
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.792604
+------------------------------------------------------
+ Channel 20
+VbolMax 0.0240797 @Vbias 8.27532
+Maximum of PAmp vs Ibol curve 0.0478095
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 188.77
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0478095		3.54766		151.261		 4.33018
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.782521
+------------------------------------------------------
+ Channel 21
+VbolMax 0.0233279 @Vbias 8.52336
+Maximum of PAmp vs Ibol curve 0.0433518
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 268.154
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0433518		4.06123		240.492		 4.87402
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.81279
+------------------------------------------------------
+ Channel 22
+VbolMax 0.0238357 @Vbias 8.48475
+Maximum of PAmp vs Ibol curve 0.0418758
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 317.545
+There are 2.11111 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.11111
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0418758		3.23508		317.545		 4.04208
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.806997
+------------------------------------------------------
+ Channel 23
+VbolMax 0.0215188 @Vbias 6.43383
+Maximum of PAmp vs Ibol curve 0.0384848
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 277.827
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.6
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0384848		2.40912		277.827		 4.02221
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.61308
+------------------------------------------------------
+ Channel 24
+VbolMax 0.0255194 @Vbias 6.65911
+Maximum of PAmp vs Ibol curve 0.00187643
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 12.4733
+There are 2 flexes in the pulse at max SNR 
+max SNR position 4
+number of Flexes 2
+Deformed pulse: get as best point WP, the 4 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.000641296		0.742423		2.31935		 3.3287
+	 Channel with no pulser; VbiasWP set to default value = 3 V 
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.328703
+------------------------------------------------------
+ Channel 25
+VbolMax 0.0272232 @Vbias 8.33697
+Maximum of PAmp vs Ibol curve 0.0540859
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 280.609
+There are 3.16667 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.16667
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0540859		3.18043		250.177		 3.97148
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.791057
+------------------------------------------------------
+ Channel 26
+VbolMax 0.0227489 @Vbias 8.27814
+Maximum of PAmp vs Ibol curve 0.0418715
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 233.837
+There are 2 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0418715		3.15402		233.837		 3.94408
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.790064
+------------------------------------------------------
+ Channel 27
+VbolMax 0.0134396 @Vbias 8.03992
+Maximum of PAmp vs Ibol curve 0.0479687
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 181.144
+There are 3.4 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0479687		3.62022		150.637		 4.4209
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.800682
+------------------------------------------------------
+ Channel 28
+VbolMax 0.0113337 @Vbias 8.52475
+Maximum of PAmp vs Ibol curve 0.0458799
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 116.175
+There are 3 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0458799		3.65221		96.2394		 4.46772
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.815509
+------------------------------------------------------
+ Channel 29
+VbolMax 0.0252777 @Vbias 8.07947
+Maximum of PAmp vs Ibol curve 0.0329791
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 237.948
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0329791		4.84503		237.948		 6.4686
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.62357
+------------------------------------------------------
+ Channel 30
+VbolMax 0.0239359 @Vbias 8.44365
+Maximum of PAmp vs Ibol curve 0.04622
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 273.353
+There are 3 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.04622		3.61941		253.729		 4.42389
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.804485
+------------------------------------------------------
+ Channel 31
+VbolMax 0.0243401 @Vbias 8.37841
+Maximum of PAmp vs Ibol curve 0.0465213
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 368.114
+There are 2 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0465213		2.79127		368.114		 4.38765
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.59639
+------------------------------------------------------
+ Channel 32
+This is an oscillating channel. Removing the unstable points from the lc 
+VbolMax 0.0261988 @Vbias 6.33635
+Maximum of PAmp vs Ibol curve 0.0396016
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 297.873
+There are 3.125 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.125
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0396016		3.87003		297.873		 4.93018
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.06015
+------------------------------------------------------
+ Channel 33
+VbolMax 0.0116924 @Vbias 8.27622
+Maximum of PAmp vs Ibol curve 0.0285798
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 239.145
+There are 3.16667 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.16667
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+0.0285798		5.91354		239.145		 6.69309
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.779541
+------------------------------------------------------
+ Channel 34
+VbolMax 0.0122377 @Vbias 8.11891
+Maximum of PAmp vs Ibol curve 0.0413219
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 309.005
+There are 3.375 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.375
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0413219		4.06235		294.027		 4.87136
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.809002
+------------------------------------------------------
+ Channel 35
+VbolMax 0.0227441 @Vbias 7.67395
+Maximum of PAmp vs Ibol curve 0.041673
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 242.345
+There are 3.1 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.1
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.041673		3.63986		222.797		 4.44599
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.806126
+------------------------------------------------------
+ Channel 36
+VbolMax 0.0260093 @Vbias 8.43962
+Maximum of PAmp vs Ibol curve 0.0347559
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 255.242
+There are 3 flexes in the pulse at max SNR 
+max SNR position 16
+number of Flexes 3
+Deformed pulse: get as best point WP, the 16 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0347559		4.82321		235.586		 5.62926
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.806046
+------------------------------------------------------
+ Channel 37
+VbolMax 0.0248503 @Vbias 6.3194
+Maximum of PAmp vs Ibol curve 0.0376591
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 191.146
+There are 3 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0376591		3.51161		191.146		 4.91464
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.40303
+------------------------------------------------------
+ Channel 38
+VbolMax 0.0111127 @Vbias 8.31921
+Maximum of PAmp vs Ibol curve 0.0379167
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 204.604
+There are 3.4 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0379167		3.56606		177.503		 4.35756
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.7915
+------------------------------------------------------
+ Channel 39
+VbolMax 0.0155397 @Vbias 5.79625
+Maximum of PAmp vs Ibol curve 0.050021
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 88.687
+There are 4.5 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 4.5
+number of Flexes 4.44444
+number of Flexes 4.1
+number of Flexes 4.875
+number of Flexes 4.875
+number of Flexes 4.44444
+number of Flexes 4.55556
+number of Flexes 4.25
+number of Flexes 3.5
+number of Flexes 4.33333
+number of Flexes 4.375
+number of Flexes 3.88889
+number of Flexes 4.14286
+number of Flexes 4.625
+This is a very noisy channel, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.050021		4.14132		88.3893		 4.692
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.550673
+------------------------------------------------------
+ Channel 40
+VbolMax 0.0193889 @Vbias 3.19251
+Maximum of PAmp vs Ibol curve 0.0413516
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 0
+0.0413516		2.39356		0		 2.39356
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 41
+VbolMax 0.0237624 @Vbias 8.11785
+Maximum of PAmp vs Ibol curve 0.039677
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 212.187
+There are 3.375 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.375
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.039677		4.46561		212.187		 6.08833
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.62272
+------------------------------------------------------
+ Channel 42
+This is an oscillating channel. Removing the unstable points from the lc 
+VbolMax 0.0259239 @Vbias 6.46278
+Maximum of PAmp vs Ibol curve 0.0447141
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 370.832
+There are 2 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0447141		3.23015		370.832		 4.84555
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.6154
+------------------------------------------------------
+ Channel 43
+VbolMax 0.0167882 @Vbias 1.70068
+Maximum of PAmp vs Ibol curve 0.0188202
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 22.6818
+There are 2 flexes in the pulse at max SNR 
+max SNR position 7
+number of Flexes 2
+Deformed pulse: get as best point WP, the 7 point before the maxSNR curve 
+0.0184015		0.932699		22.6818		 0.932699
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 44
+VbolMax 0.0260756 @Vbias 7.57997
+Maximum of PAmp vs Ibol curve 0.0437433
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 350.439
+There are 3 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0437433		3.59496		350.439		 5.18346
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.5885
+------------------------------------------------------
+ Channel 45
+VbolMax 0.0122704 @Vbias 8.33793
+Maximum of PAmp vs Ibol curve 0.0440027
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 240.885
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2.6
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0440027		3.17846		209.835		 3.97187
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.793404
+------------------------------------------------------
+ Channel 46
+VbolMax 0.0226805 @Vbias 8.27636
+Maximum of PAmp vs Ibol curve 0.0348508
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 225.909
+There are 3 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+0.0348508		4.72629		225.909		 6.69868
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.97239
+------------------------------------------------------
+ Channel 47
+VbolMax 0.0111424 @Vbias 8.12078
+Maximum of PAmp vs Ibol curve 0.0371755
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 201.075
+There are 2.77778 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.77778
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0371755		3.65366		186.135		 4.46642
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.812757
+------------------------------------------------------
+ Channel 48
+VbolMax 0.0247599 @Vbias 8.48475
+Maximum of PAmp vs Ibol curve 0.0448759
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 221.849
+There are 2.375 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.375
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0448759		3.23123		197.565		 4.04329
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.812064
+------------------------------------------------------
+ Channel 49
+VbolMax 0.0232714 @Vbias 8.44243
+Maximum of PAmp vs Ibol curve 0.0438843
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 203.74
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0438843		3.61916		167.563		 4.42353
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.804369
+------------------------------------------------------
+ Channel 50
+VbolMax 0.0272271 @Vbias 6.32729
+Maximum of PAmp vs Ibol curve 0.0361594
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 231.704
+There are 3.42857 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.42857
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0361594		4.32712		231.704		 4.99797
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.670854
+------------------------------------------------------
+ Channel 51
+VbolMax 0.0204094 @Vbias 7.93964
+Maximum of PAmp vs Ibol curve 0.0422047
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 172.551
+There are 2 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0422047		2.78335		151.01		 3.57386
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.790505
+------------------------------------------------------
+ Channel 52
+VbolMax 0.0232787 @Vbias 8.27287
+Maximum of PAmp vs Ibol curve 0.0422441
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 97.4748
+There are 3.42857 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.42857
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0422441		3.54647		75.7056		 4.33508
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.788607
+------------------------------------------------------
+ Channel 53
+VbolMax 0.0236616 @Vbias 7.10685
+Maximum of PAmp vs Ibol curve 0.0456687
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 275.269
+There are 3 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0456687		3.16392		259.96		 3.95064
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.786716
+------------------------------------------------------
+ Channel 54
+VbolMax 0.023597 @Vbias 8.52231
+Maximum of PAmp vs Ibol curve 0.0363251
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 212.141
+There are 2.11111 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.11111
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0363251		3.24766		196.099		 4.0604
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.812746
+------------------------------------------------------
+ Channel 55
+VbolMax 0.0245432 @Vbias 8.07986
+Maximum of PAmp vs Ibol curve 0.0287943
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 266.799
+There are 3 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+0.0287943		5.25175		266.799		 6.46713
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.21539
+------------------------------------------------------
+ Channel 56
+VbolMax 0.0112045 @Vbias 8.44131
+Maximum of PAmp vs Ibol curve 0.0400574
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 334.77
+There are 2 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0400574		4.0212		328.76		 4.82383
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.802634
+------------------------------------------------------
+ Channel 57
+VbolMax 0.0242739 @Vbias 8.37868
+Maximum of PAmp vs Ibol curve 0.0427859
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 300.775
+There are 2 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0427859		3.19314		300.775		 3.99047
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.797333
+------------------------------------------------------
+ Channel 58
+VbolMax 0.0127673 @Vbias 8.29386
+Maximum of PAmp vs Ibol curve 0.0460036
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 303.438
+There are 2.33333 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.33333
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0460036		3.16408		301.52		 3.95266
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.788579
+------------------------------------------------------
+ Channel 59
+VbolMax 0.011748 @Vbias 8.27624
+Maximum of PAmp vs Ibol curve 0.0462611
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 194.487
+There are 2.375 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.375
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0462611		3.15087		167.567		 3.94047
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.789598
+------------------------------------------------------
+ Channel 60
+VbolMax 0.0203612 @Vbias 8.52433
+Maximum of PAmp vs Ibol curve 0.0305039
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 110.724
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0305039		4.06426		93.5602		 4.87304
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.808785
+------------------------------------------------------
+ Channel 61
+VbolMax 0.022273 @Vbias 8.48639
+Maximum of PAmp vs Ibol curve 0.0432198
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 214.55
+There are 3.2 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.2
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0432198		3.63946		188.228		 4.44747
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.808014
+------------------------------------------------------
+ Channel 62
+VbolMax 0.0254746 @Vbias 8.43799
+Maximum of PAmp vs Ibol curve 0.0553971
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 182.471
+There are 3.1 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.1
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0553971		3.61815		151.091		 4.4226
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.80445
+------------------------------------------------------
+ Channel 63
+VbolMax 0.0253578 @Vbias 8.37853
+Maximum of PAmp vs Ibol curve 0.0385958
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 105.858
+There are 4 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 4
+number of Flexes 3.75
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0385958		5.18788		105.858		 5.58799
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.400106
+------------------------------------------------------
+ Channel 64
+VbolMax 0.0239505 @Vbias 8.29498
+Maximum of PAmp vs Ibol curve 0.0408518
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 227.133
+There are 2.1 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2.1
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0408518		3.16		213.784		 3.94994
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.789934
+------------------------------------------------------
+ Channel 65
+VbolMax 0.0256414 @Vbias 7.09108
+Maximum of PAmp vs Ibol curve 0.0461996
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 48.2157
+There are 3.66667 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.66667
+number of Flexes 3.7
+number of Flexes 3
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0461996		3.15188		48.2157		 4.73018
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.5783
+------------------------------------------------------
+ Channel 66
+VbolMax 0.0119241 @Vbias 8.27814
+Maximum of PAmp vs Ibol curve 0.0338756
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 306.483
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0338756		3.94187		306.483		 5.91251
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.97064
+------------------------------------------------------
+ Channel 67
+VbolMax 0.012402 @Vbias 7.71458
+Maximum of PAmp vs Ibol curve 0.0411652
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 289.439
+There are 2.8 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.8
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0411652		3.24989		269.839		 4.05854
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.808657
+------------------------------------------------------
+ Channel 68
+VbolMax 0.012538 @Vbias 8.4806
+Maximum of PAmp vs Ibol curve 0.0445516
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 281.257
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.6
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0445516		3.23436		252.54		 4.03907
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.804707
+------------------------------------------------------
+ Channel 69
+VbolMax 0.023288 @Vbias 8.03771
+Maximum of PAmp vs Ibol curve 0.0442658
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 306.497
+There are 2.44444 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.44444
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0442658		3.21772		302.627		 4.02127
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.80355
+------------------------------------------------------
+ Channel 70
+VbolMax 0.0133282 @Vbias 8.37866
+Maximum of PAmp vs Ibol curve 0.0399106
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 339.302
+There are 3.16667 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.16667
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0399106		4.38817		339.302		 5.98376
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.59559
+------------------------------------------------------
+ Channel 71
+VbolMax 0.0121685 @Vbias 8.29711
+Maximum of PAmp vs Ibol curve 0.0387774
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 308.863
+There are 2.75 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.75
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0387774		3.55371		308.863		 5.53274
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.97904
+------------------------------------------------------
+ Channel 72
+VbolMax 0.022748 @Vbias 8.27529
+Maximum of PAmp vs Ibol curve 0.041836
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 209.193
+There are 3.11111 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.11111
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.041836		3.54617		185.918		 4.33514
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.78897
+------------------------------------------------------
+ Channel 73
+VbolMax 0.0113389 @Vbias 8.52247
+Maximum of PAmp vs Ibol curve 0.0463227
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 322.509
+There are 2 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 2
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0463227		3.25016		305.161		 4.0617
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.811541
+------------------------------------------------------
+ Channel 74
+VbolMax 0.0255485 @Vbias 7.67569
+Maximum of PAmp vs Ibol curve 0.0369913
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 88.2212
+There are 3.7 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.7
+number of Flexes 3.6
+number of Flexes 3.44444
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0369913		4.04025		88.2212		 5.25248
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.21223
+------------------------------------------------------
+ Channel 75
+VbolMax 0.0253599 @Vbias 8.44371
+Maximum of PAmp vs Ibol curve 0.0413449
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 261.921
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0413449		3.62044		235.529		 4.42213
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.801696
+------------------------------------------------------
+ Channel 76
+VbolMax 0.0245435 @Vbias 8.3996
+Maximum of PAmp vs Ibol curve 0.0426334
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 140.569
+There are 2.9 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.9
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0426334		3.60098		127.6		 4.39938
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.7984
+------------------------------------------------------
+ Channel 77
+VbolMax 0.0247818 @Vbias 8.31596
+Maximum of PAmp vs Ibol curve 0.0442083
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 141.315
+There are 3.77778 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.77778
+number of Flexes 3.6
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0442083		3.56715		141.315		 5.54645
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.97931
+------------------------------------------------------
+ Channel 78
+VbolMax 0.0231386 @Vbias 8.27542
+Maximum of PAmp vs Ibol curve 0.0447779
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 63.3906
+There are 2 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0447779		3.54602		62.1057		 4.33138
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.785363
+------------------------------------------------------
+ Channel 79
+VbolMax 0.0117177 @Vbias 8.50747
+Maximum of PAmp vs Ibol curve 0.039528
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 266.039
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.039528		4.05099		222.171		 4.85866
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.807666
+------------------------------------------------------
+ Channel 80
+VbolMax 0.023158 @Vbias 8.50623
+Maximum of PAmp vs Ibol curve 0.0388733
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 176.06
+There are 3.1 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.1
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0388733		3.64597		149.583		 4.45673
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.81076
+------------------------------------------------------
+ Channel 81
+VbolMax 0.0242282 @Vbias 8.46547
+Maximum of PAmp vs Ibol curve 0.0448518
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 314.06
+There are 2 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0448518		2.82095		314.06		 4.03074
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.20979
+------------------------------------------------------
+ Channel 82
+VbolMax 0.0230395 @Vbias 8.42128
+Maximum of PAmp vs Ibol curve 0.0416633
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 65.2537
+There are 4 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 4
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0416633		3.60921		51.6498		 4.41135
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.802143
+------------------------------------------------------
+ Channel 83
+VbolMax 0.0110375 @Vbias 8.35855
+Maximum of PAmp vs Ibol curve 0.0359777
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 248.773
+There are 3.14286 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.14286
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0359777		3.97972		236.562		 4.77769
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.797966
+------------------------------------------------------
+ Channel 84
+VbolMax 0.0113887 @Vbias 8.27856
+Maximum of PAmp vs Ibol curve 0.0407857
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 176.581
+There are 2.875 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.875
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0407857		3.15121		141.217		 3.93995
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.788741
+------------------------------------------------------
+ Channel 85
+VbolMax 0.0250588 @Vbias 8.25182
+Maximum of PAmp vs Ibol curve 0.043537
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 239.994
+There are 3.28571 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.28571
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.043537		3.53715		215.703		 4.32408
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.786922
+------------------------------------------------------
+ Channel 86
+VbolMax 0.0115746 @Vbias 8.52572
+Maximum of PAmp vs Ibol curve 0.0390384
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 77.5201
+There are 4 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 4
+number of Flexes 3.44444
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0390384		3.2507		59.16		 4.05981
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.809102
+------------------------------------------------------
+ Channel 87
+VbolMax 0.0226056 @Vbias 8.46431
+Maximum of PAmp vs Ibol curve 0.0390558
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 158.639
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.6
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0390558		3.22764		133.689		 4.03262
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.804976
+------------------------------------------------------
+ Channel 88
+VbolMax 0.0244857 @Vbias 8.02192
+Maximum of PAmp vs Ibol curve 0.0446155
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 348.934
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0446155		4.01142		294.133		 4.80908
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.797664
+------------------------------------------------------
+ Channel 89
+VbolMax 0.0237964 @Vbias 6.28915
+Maximum of PAmp vs Ibol curve 0.0438952
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 35.7642
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.6
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0438952		3.64		35.7642		 4.96509
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.32508
+------------------------------------------------------
+ Channel 90
+VbolMax 0.0267207 @Vbias 8.27474
+Maximum of PAmp vs Ibol curve 0.0441158
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 177.541
+There are 3.4 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0441158		3.94099		155.22		 4.7285
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.787504
+------------------------------------------------------
+ Channel 91
+VbolMax 0.0224715 @Vbias 8.25382
+Maximum of PAmp vs Ibol curve 0.0447166
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 29.7922
+There are 2.3 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.3
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0447166		3.14492		21.9319		 3.92971
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.784792
+------------------------------------------------------
+ Channel 92
+VbolMax 0.0116745 @Vbias 8.46372
+Maximum of PAmp vs Ibol curve 0.0354678
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 255.443
+There are 3.44444 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 3.44444
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0354678		4.83316		255.443		 5.23787
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.404716
+------------------------------------------------------
+ Channel 93
+VbolMax 0.0238058 @Vbias 8.09918
+Maximum of PAmp vs Ibol curve 0.0444052
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 179.65
+There are 2.9 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.9
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0444052		2.83324		152.596		 3.64538
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.812149
+------------------------------------------------------
+ Channel 94
+VbolMax 0.0236584 @Vbias 8.46194
+Maximum of PAmp vs Ibol curve 0.0462851
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 211.221
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2.6
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0462851		3.2239		167.887		 4.02966
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.805766
+------------------------------------------------------
+ Channel 95
+VbolMax 0.0237202 @Vbias 8.42195
+Maximum of PAmp vs Ibol curve 0.0443506
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 255.989
+There are 2.44444 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.44444
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0443506		3.20732		252.262		 4.01135
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.804027
+------------------------------------------------------
+ Channel 96
+VbolMax 0.0248562 @Vbias 7.42002
+Maximum of PAmp vs Ibol curve 0.0450007
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 330.49
+There are 2.5 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.5
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0450007		3.34037		266.454		 4.08142
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.741048
+------------------------------------------------------
+ Channel 97
+VbolMax 0.0272651 @Vbias 6.59482
+Maximum of PAmp vs Ibol curve 0.0557473
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 427.154
+There are 2.125 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.125
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0557473		2.82588		427.154		 4.39622
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.57035
+------------------------------------------------------
+ Channel 98
+VbolMax 0.0117551 @Vbias 8.25173
+Maximum of PAmp vs Ibol curve 0.0410025
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 239.639
+There are 2.75 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2.75
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0410025		3.92803		220.417		 4.71615
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.788121
+------------------------------------------------------
+ Channel 99
+VbolMax 0.011241 @Vbias 8.5049
+Maximum of PAmp vs Ibol curve 0.042852
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 326.959
+There are 2.22222 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.22222
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.042852		3.64568		324.353		 4.45596
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.810275
+------------------------------------------------------
+ Channel 100
+VbolMax 0.0238029 @Vbias 8.46299
+Maximum of PAmp vs Ibol curve 0.0446942
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 176.164
+There are 2.4 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.4
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0446942		3.22528		153.623		 4.03195
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.806672
+------------------------------------------------------
+ Channel 101
+VbolMax 0.0251539 @Vbias 7.39165
+Maximum of PAmp vs Ibol curve 0.0448071
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 193.056
+There are 3.77778 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.77778
+number of Flexes 3.88889
+number of Flexes 3.6
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0448071		3.87175		193.056		 4.22369
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.351934
+------------------------------------------------------
+ Channel 102
+VbolMax 0.0258181 @Vbias 8.35693
+Maximum of PAmp vs Ibol curve 0.044056
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 125.821
+There are 3.375 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.375
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.044056		3.58271		113.578		 4.3748
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.792089
+------------------------------------------------------
+ Channel 103
+VbolMax 0.0225398 @Vbias 8.29738
+Maximum of PAmp vs Ibol curve 0.0400314
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 167.716
+There are 2 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0400314		3.55514		167.716		 5.5307
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.97556
+------------------------------------------------------
+ Channel 104
+VbolMax 0.0243162 @Vbias 8.25441
+Maximum of PAmp vs Ibol curve 0.0467057
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 17.4814
+There are 2 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0441603		1.96725		13.1812		 2.75102
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.783765
+------------------------------------------------------
+ Channel 105
+VbolMax 0.0111357 @Vbias 8.39861
+Maximum of PAmp vs Ibol curve 0.0352084
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 274.041
+There are 3.1 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.1
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0352084		4.00025		243.05		 4.79854
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.798297
+------------------------------------------------------
+ Channel 106
+VbolMax 0.0115616 @Vbias 8.50421
+Maximum of PAmp vs Ibol curve 0.039161
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 309.378
+There are 3.33333 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.039161		4.05137		272.385		 4.8593
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.807931
+------------------------------------------------------
+ Channel 107
+VbolMax 0.00987342 @Vbias 8.4664
+Maximum of PAmp vs Ibol curve 0.0312993
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 324.485
+There are 3.1 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.1
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0312993		4.43511		288.544		 5.2396
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.804492
+------------------------------------------------------
+ Channel 108
+VbolMax 0.0106999 @Vbias 8.40292
+Maximum of PAmp vs Ibol curve 0.0437547
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 397.311
+There are 2.11111 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.11111
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0437547		3.20175		374.218		 4.00009
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.798341
+------------------------------------------------------
+ Channel 109
+VbolMax 0.0220027 @Vbias 7.16379
+Maximum of PAmp vs Ibol curve 0.0250666
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 226.934
+There are 3 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0250666		4.77257		226.934		 5.57452
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.801949
+------------------------------------------------------
+ Channel 110
+VbolMax 0.0223424 @Vbias 8.27315
+Maximum of PAmp vs Ibol curve 0.0349474
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 277.894
+There are 3.11111 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.11111
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0349474		3.9413		259.543		 4.72627
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.784965
+------------------------------------------------------
+ Channel 111
+VbolMax 0.0231308 @Vbias 7.46831
+Maximum of PAmp vs Ibol curve 0.038827
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 272.121
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.038827		3.53886		256.739		 4.32098
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.782117
+------------------------------------------------------
+ Channel 112
+VbolMax 0.0114658 @Vbias 8.50473
+Maximum of PAmp vs Ibol curve 0.0396362
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 216.009
+There are 2.55556 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.55556
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0396362		3.24173		179.281		 4.05328
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.811543
+------------------------------------------------------
+ Channel 113
+VbolMax 0.0227728 @Vbias 8.05847
+Maximum of PAmp vs Ibol curve 0.0429875
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 266.309
+There are 2.57143 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.57143
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0429875		2.82337		240.878		 3.62944
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.806076
+------------------------------------------------------
+ Channel 114
+VbolMax 0.0208932 @Vbias 8.40262
+Maximum of PAmp vs Ibol curve 0.0396667
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 191.871
+There are 2.3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0396667		3.60412		160.37		 4.40023
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.796111
+------------------------------------------------------
+ Channel 115
+VbolMax 0.0236261 @Vbias 8.33812
+Maximum of PAmp vs Ibol curve 0.0344445
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 106.254
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0344445		3.57345		81.8943		 4.36257
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.789114
+------------------------------------------------------
+ Channel 116
+VbolMax 0.0204861 @Vbias 8.27658
+Maximum of PAmp vs Ibol curve 0.0415007
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 38.689
+There are 2.25 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2.25
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0415007		3.54542		30.5938		 4.3339
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.788485
+------------------------------------------------------
+ Channel 118
+VbolMax 0.0127809 @Vbias 8.3381
+Maximum of PAmp vs Ibol curve 0.0451454
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 282.307
+There are 2.88889 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.88889
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0451454		3.57449		243.574		 4.36685
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.792358
+------------------------------------------------------
+ Channel 119
+VbolMax 0.0121164 @Vbias 8.50061
+Maximum of PAmp vs Ibol curve 0.0380519
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 362.522
+There are 3.22222 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.22222
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0380519		4.45902		362.522		 6.07469
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.61567
+------------------------------------------------------
+ Channel 120
+VbolMax 0.0120405 @Vbias 8.462
+Maximum of PAmp vs Ibol curve 0.0394874
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 317.92
+There are 2.83333 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.83333
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0394874		4.03091		303.007		 4.83638
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.805477
+------------------------------------------------------
+ Channel 121
+VbolMax 0.0112847 @Vbias 8.42034
+Maximum of PAmp vs Ibol curve 0.0360617
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 286.257
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0360617		4.41357		286.257		 6.01623
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.60266
+------------------------------------------------------
+ Channel 122
+VbolMax 0.0236468 @Vbias 8.35856
+Maximum of PAmp vs Ibol curve 0.0331567
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 294.068
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0331567		4.77497		294.068		 5.57175
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.796776
+------------------------------------------------------
+ Channel 123
+VbolMax 0.0233558 @Vbias 6.68939
+Maximum of PAmp vs Ibol curve 0.0383113
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 300.723
+There are 2 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0383113		2.81664		300.723		 3.87355
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.05691
+------------------------------------------------------
+ Channel 124
+VbolMax 0.0239549 @Vbias 8.25668
+Maximum of PAmp vs Ibol curve 0.0366365
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 190.473
+There are 3 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0366365		3.53703		171.311		 4.3224
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.785367
+------------------------------------------------------
+ Channel 125
+VbolMax 0.0105357 @Vbias 8.50101
+Maximum of PAmp vs Ibol curve 0.0410581
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 73.7103
+There are 2 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0410581		3.23863		60.068		 4.05163
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.813
+------------------------------------------------------
+ Channel 126
+VbolMax 0.026279 @Vbias 5.60276
+Maximum of PAmp vs Ibol curve 0.0558423
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 157.858
+There are 3.6 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.6
+number of Flexes 3.6
+number of Flexes 2.9
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0558423		2.94833		157.858		 3.8372
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.888869
+------------------------------------------------------
+ Channel 127
+VbolMax 0.0236837 @Vbias 6.41676
+Maximum of PAmp vs Ibol curve 0.0443997
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 176.465
+There are 2.5 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2.5
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0443997		2.80746		164.558		 3.61087
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.803414
+------------------------------------------------------
+ Channel 128
+VbolMax 0.0268406 @Vbias 8.36047
+Maximum of PAmp vs Ibol curve 0.0457585
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 236.278
+There are 3.6 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.6
+number of Flexes 3.22222
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0457585		3.18599		210.186		 3.98299
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.797
+------------------------------------------------------
+ Channel 129
+VbolMax 0.0215177 @Vbias 8.27416
+Maximum of PAmp vs Ibol curve 0.0258466
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 75.8237
+There are 3 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+0.0258466		5.51546		75.8237		 6.69723
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.18177
+------------------------------------------------------
+ Channel 130
+VbolMax 0.0272296 @Vbias 8.25462
+Maximum of PAmp vs Ibol curve 0.0385349
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 84.0836
+There are 4.2 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 4.2
+number of Flexes 3.8
+number of Flexes 4.6
+number of Flexes 4.5
+number of Flexes 4.5
+number of Flexes 4.4
+number of Flexes 4.2
+number of Flexes 4.5
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 7 point before the maxSNR curve 
+0.0385349		4.31909		84.0836		 4.31909
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 131
+VbolMax 0.0242604 @Vbias 7.46745
+Maximum of PAmp vs Ibol curve 0.0531115
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 370.137
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0531115		3.93011		370.137		 5.89596
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.96585
+------------------------------------------------------
+ Channel 132
+VbolMax 0.0241857 @Vbias 7.29323
+Maximum of PAmp vs Ibol curve 0.0410882
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 380.541
+There are 3.16667 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 3.16667
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0410882		3.64816		380.541		 4.86019
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.21203
+------------------------------------------------------
+ Channel 133
+VbolMax 0.0121336 @Vbias 8.46141
+Maximum of PAmp vs Ibol curve 0.0430477
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 316.418
+There are 2.375 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.375
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0430477		3.22473		278.73		 4.03094
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.806211
+------------------------------------------------------
+ Channel 134
+This is an oscillating channel. Removing the unstable points from the lc 
+VbolMax 0.020483 @Vbias 3.78889
+Maximum of PAmp vs Ibol curve 0.0273355
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 166.573
+There are 2.1 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2.1
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0273355		2.36831		166.573		 2.60962
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.24131
+------------------------------------------------------
+ Channel 135
+This is an oscillating channel. Removing the unstable points from the lc 
+VbolMax 0.0123209 @Vbias 5.56134
+Maximum of PAmp vs Ibol curve 0.0448007
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 302.922
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0448007		3.17819		302.922		 3.57163
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.393437
+------------------------------------------------------
+ Channel 136
+VbolMax 0.0106477 @Vbias 7.08791
+Maximum of PAmp vs Ibol curve 0.0301158
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 187.689
+There are 3.1 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.1
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0301158		3.54637		187.689		 5.51845
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.97207
+------------------------------------------------------
+ Channel 137
+VbolMax 0.0108644 @Vbias 8.25363
+Maximum of PAmp vs Ibol curve 0.0392861
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 300.995
+There are 2.11111 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.11111
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0392861		3.14852		294.473		 3.93167
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.783152
+------------------------------------------------------
+ Channel 138
+VbolMax 0.0113864 @Vbias 8.50484
+Maximum of PAmp vs Ibol curve 0.0340827
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 159.076
+There are 2.9 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.9
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0340827		4.05132		138.129		 4.8599
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.808585
+------------------------------------------------------
+ Channel 139
+VbolMax 0.0220744 @Vbias 6.43242
+Maximum of PAmp vs Ibol curve 0.0378737
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 196.67
+There are 2.7 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 2.7
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0378737		3.21746		196.67		 4.82439
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.60693
+------------------------------------------------------
+ Channel 140
+VbolMax 0.0239705 @Vbias 8.39856
+Maximum of PAmp vs Ibol curve 0.0236008
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 148.059
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0236008		4.79752		148.059		 6.40278
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.60526
+------------------------------------------------------
+ Channel 141
+VbolMax 0.0261331 @Vbias 7.14425
+Maximum of PAmp vs Ibol curve 0.0443767
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 259.417
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0443767		3.17722		234.932		 3.97272
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.795497
+------------------------------------------------------
+ Channel 142
+VbolMax 0.0109478 @Vbias 8.27679
+Maximum of PAmp vs Ibol curve 0.0363706
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 224.309
+There are 3.33333 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0363706		3.94036		197.127		 4.72949
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.789134
+------------------------------------------------------
+ Channel 143
+VbolMax 0.0224789 @Vbias 7.86191
+Maximum of PAmp vs Ibol curve 0.0308018
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 159.181
+There are 3.11111 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.11111
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0308018		3.93281		146.096		 4.71593
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.78312
+------------------------------------------------------
+ Channel 144
+VbolMax 0.0120137 @Vbias 8.25282
+Maximum of PAmp vs Ibol curve 0.0418191
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 327.92
+There are 2 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0418191		3.53603		327.92		 5.50168
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.96565
+------------------------------------------------------
+ Channel 145
+VbolMax 0.0104928 @Vbias 8.50636
+Maximum of PAmp vs Ibol curve 0.0406259
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 352.22
+There are 2.1 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.1
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0406259		3.6444		266.979		 4.45329
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.808886
+------------------------------------------------------
+ Channel 146
+VbolMax 0.0109804 @Vbias 8.43956
+Maximum of PAmp vs Ibol curve 0.0331358
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 215.032
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.6
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0331358		4.02153		196.565		 4.82392
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.802383
+------------------------------------------------------
+ Channel 147
+VbolMax 0.0256732 @Vbias 8.39668
+Maximum of PAmp vs Ibol curve 0.036637
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 200.172
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.036637		4.40031		200.172		 6.00467
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.60436
+------------------------------------------------------
+ Channel 148
+VbolMax 0.0127025 @Vbias 8.34119
+Maximum of PAmp vs Ibol curve 0.0199065
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 0
+There are 0 flexes in the pulse at max SNR 
+max SNR position 0
+0.0199065		7.14702		0		 7.14702
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 149
+VbolMax 0.0116071 @Vbias 8.25382
+Maximum of PAmp vs Ibol curve 0.0464063
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 380.683
+There are 2 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0464063		3.14458		361.183		 3.93049
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.785903
+------------------------------------------------------
+ Channel 150
+VbolMax 0.0182663 @Vbias 8.25354
+Maximum of PAmp vs Ibol curve 0.0278246
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 233.342
+There are 2.11111 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.11111
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0278246		4.32176		233.342		 5.89587
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.57412
+------------------------------------------------------
+ Channel 151
+VbolMax 0.0110608 @Vbias 8.50107
+Maximum of PAmp vs Ibol curve 0.0369076
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 266.971
+There are 2 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0369076		3.24085		266.971		 4.4578
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.21694
+------------------------------------------------------
+ Channel 152
+VbolMax 0.0233526 @Vbias 8.05962
+Maximum of PAmp vs Ibol curve 0.0438989
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 320.455
+There are 2.3 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 2.3
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0438989		2.8215		300.387		 3.62678
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.805275
+------------------------------------------------------
+ Channel 153
+VbolMax 0.0232682 @Vbias 7.20081
+Maximum of PAmp vs Ibol curve 0.0411058
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 261.414
+There are 2.77778 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 2.77778
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0411058		3.20068		261.414		 4.80046
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.59978
+------------------------------------------------------
+ Channel 154
+VbolMax 0.0218027 @Vbias 8.3376
+Maximum of PAmp vs Ibol curve 0.0406822
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 280.611
+There are 2.85714 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.85714
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0406822		3.57334		255.918		 4.36545
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.792114
+------------------------------------------------------
+ Channel 155
+VbolMax 0.0221649 @Vbias 7.46652
+Maximum of PAmp vs Ibol curve 0.0449734
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 295.684
+There are 2.55556 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 2.55556
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0449734		3.1467		295.684		 5.11234
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.96564
+------------------------------------------------------
+ Channel 156
+VbolMax 0.0113197 @Vbias 8.25478
+Maximum of PAmp vs Ibol curve 0.0366717
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 104.933
+There are 3.1 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.1
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0366717		3.93059		93.2415		 4.71685
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.786261
+------------------------------------------------------
+ Channel 157
+VbolMax 0.018584 @Vbias 9.0055
+Maximum of PAmp vs Ibol curve 0.000993899
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 5.20892
+There are 0 flexes in the pulse at max SNR 
+max SNR position 2
+number of Flexes 0
+Deformed pulse: get as best point WP, the 2 point before the maxSNR curve 
+0.000942897		0.430495		5.20892		 1.28858
+	 Channel with no pulser; VbiasWP set to default value = 3 V 
+VbiasMaxSNR - VbiasMaxPAmp [mV] -1.71142
+------------------------------------------------------
+ Channel 158
+VbolMax 0.00870547 @Vbias 9.00509
+Maximum of PAmp vs Ibol curve 0.0460192
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 451.667
+There are 2 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0460192		3.86055		448.269		 4.71881
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.858256
+------------------------------------------------------
+ Channel 159
+VbolMax 0.00876191 @Vbias 9.00944
+Maximum of PAmp vs Ibol curve 0.0461452
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 418.093
+There are 2 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0461452		3.43488		418.093		 4.718
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.28311
+------------------------------------------------------
+ Channel 160
+VbolMax 0.00996784 @Vbias 8.98798
+Maximum of PAmp vs Ibol curve 0.0333698
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 300.155
+There are 3.11111 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.11111
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+0.0333698		5.56448		300.155		 6.84979
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.28531
+------------------------------------------------------
+ Channel 161
+VbolMax 0.00851788 @Vbias 8.15063
+Maximum of PAmp vs Ibol curve 0.03455
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 294.04
+There are 3.33333 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.03455		3.86105		289.275		 4.71794
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.856889
+------------------------------------------------------
+ Channel 162
+VbolMax 0.00996347 @Vbias 9.00845
+Maximum of PAmp vs Ibol curve 0.0444814
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 365.011
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0444814		3.86001		332.913		 4.71925
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.859235
+------------------------------------------------------
+ Channel 163
+VbolMax 0.0100971 @Vbias 9.0061
+Maximum of PAmp vs Ibol curve 0.0453023
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 294.778
+There are 3.66667 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.66667
+number of Flexes 3.375
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0453023		3.8596		253.856		 4.71743
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.85783
+------------------------------------------------------
+ Channel 164
+VbolMax 0.00860212 @Vbias 9.00716
+Maximum of PAmp vs Ibol curve 0.0391823
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 214.437
+There are 3.66667 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.66667
+number of Flexes 3.44444
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0391823		4.72043		214.437		 6.4377
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.71727
+------------------------------------------------------
+ Channel 165
+VbolMax 0.0181984 @Vbias 9.00717
+Maximum of PAmp vs Ibol curve 0.050522
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 301.599
+There are 2.1 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.1
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.050522		3.43199		259.443		 4.2921
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.860111
+------------------------------------------------------
+ Channel 166
+VbolMax 0.0178309 @Vbias 9.00823
+Maximum of PAmp vs Ibol curve 0.0420231
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 239.982
+There are 2.9 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.9
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0420231		3.85875		202.757		 4.71993
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.861183
+------------------------------------------------------
+ Channel 167
+VbolMax 0.0177967 @Vbias 9.00999
+Maximum of PAmp vs Ibol curve 0.0459162
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 197.25
+There are 2 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0459162		3.43248		189.475		 4.28997
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.857492
+------------------------------------------------------
+ Channel 168
+VbolMax 0.0157785 @Vbias 9.0088
+Maximum of PAmp vs Ibol curve 0.0427318
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 171.74
+There are 2.4 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2.4
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0427318		4.28786		156.939		 5.15105
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.863186
+------------------------------------------------------
+ Channel 170
+VbolMax 0.00984917 @Vbias 8.98712
+Maximum of PAmp vs Ibol curve 0.0483577
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 355.355
+There are 3.66667 flexes in the pulse at max SNR 
+max SNR position 5
+number of Flexes 3.66667
+number of Flexes 3
+Deformed pulse: get as best point WP, the 4 point before the maxSNR curve 
+0.0483577		3.42339		355.355		 5.13543
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.71204
+------------------------------------------------------
+ Channel 171
+VbolMax 0.0202789 @Vbias 9.00602
+Maximum of PAmp vs Ibol curve 0.0488197
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 469.153
+There are 3.11111 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.11111
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0488197		3.85738		462.256		 4.71983
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.862447
+------------------------------------------------------
+ Channel 172
+VbolMax 0.0101569 @Vbias 9.0079
+Maximum of PAmp vs Ibol curve 0.0576606
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 545.562
+There are 2.375 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.375
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0576606		3.43229		532.157		 4.28778
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.85549
+------------------------------------------------------
+ Channel 173
+VbolMax 0.00974364 @Vbias 9.0106
+Maximum of PAmp vs Ibol curve 0.0514844
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 415.332
+There are 2.14286 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.14286
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0514844		3.43331		415.332		 4.28963
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.856314
+------------------------------------------------------
+ Channel 174
+VbolMax 0.00929211 @Vbias 9.00807
+Maximum of PAmp vs Ibol curve 0.0475389
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 184.675
+There are 2.88889 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.88889
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0475389		3.43233		155.75		 4.28755
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.855225
+------------------------------------------------------
+ Channel 175
+VbolMax 0.00995301 @Vbias 9.00911
+Maximum of PAmp vs Ibol curve 0.0377193
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 364.547
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0377193		5.1486		364.547		 6.43589
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.28728
+------------------------------------------------------
+ Channel 176
+VbolMax 0.0100464 @Vbias 9.00678
+Maximum of PAmp vs Ibol curve 0.0530637
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 421.847
+There are 2.1 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 2.1
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0530637		3.43312		421.847		 5.14939
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.71626
+------------------------------------------------------
+ Channel 177
+VbolMax 0.00964769 @Vbias 8.98803
+Maximum of PAmp vs Ibol curve 0.0460705
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 364.752
+There are 2 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 2
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0460705		3.85278		364.752		 5.56503
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.71225
+------------------------------------------------------
+ Channel 178
+VbolMax 0.0194015 @Vbias 8.15167
+Maximum of PAmp vs Ibol curve 0.0455629
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 300.66
+There are 2.5 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2.5
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0455629		3.43161		300.66		 5.1442
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.71259
+------------------------------------------------------
+ Channel 179
+VbolMax 0.0193739 @Vbias 8.15302
+Maximum of PAmp vs Ibol curve 0.000739634
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 3.29215
+There are 0 flexes in the pulse at max SNR 
+max SNR position 5
+number of Flexes 0
+Deformed pulse: get as best point WP, the 5 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.000739634		0.429689		2.51866		 3.00384
+	 Channel with no pulser; VbiasWP set to default value = 3 V 
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.00383806
+------------------------------------------------------
+ Channel 180
+VbolMax 0.01977 @Vbias 7.70317
+Maximum of PAmp vs Ibol curve 0.0402047
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 236.774
+There are 3.11111 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.11111
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0402047		3.85175		205.068		 4.70687
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.855113
+------------------------------------------------------
+ Channel 181
+VbolMax 0.0169889 @Vbias 8.58099
+Maximum of PAmp vs Ibol curve 0.0390487
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 189.269
+There are 2 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0390487		3.00241		176.91		 3.85847
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.856055
+------------------------------------------------------
+ Channel 182
+VbolMax 0.0207502 @Vbias 8.57895
+Maximum of PAmp vs Ibol curve 0.0479611
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 219.134
+There are 3.55556 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.55556
+number of Flexes 3.6
+number of Flexes 3.2
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0479611		3.43302		219.134		 5.14843
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.71541
+------------------------------------------------------
+ Channel 183
+VbolMax 0.0178394 @Vbias 9.00936
+Maximum of PAmp vs Ibol curve 0.0411699
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 307.849
+There are 2 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0411699		4.28723		307.849		 4.28723
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 184
+VbolMax 0.0198175 @Vbias 9.00659
+Maximum of PAmp vs Ibol curve 0.0507776
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 383.766
+There are 2 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0507776		3.43259		383.766		 4.28986
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.857273
+------------------------------------------------------
+ Channel 185
+VbolMax 0.0193226 @Vbias 9.00924
+Maximum of PAmp vs Ibol curve 0.0413423
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 249.309
+There are 2.3 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.3
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0413423		4.2889		249.309		 4.2889
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 186
+VbolMax 0.0181133 @Vbias 9.00839
+Maximum of PAmp vs Ibol curve 0.0422503
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 276.866
+There are 2.55556 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2.55556
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0422503		3.4344		276.866		 4.71936
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.28496
+------------------------------------------------------
+ Channel 187
+VbolMax 0.0174858 @Vbias 8.98932
+Maximum of PAmp vs Ibol curve 0.0431891
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 266.369
+There are 2.6 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.6
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0431891		4.28064		236.819		 5.13861
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.857968
+------------------------------------------------------
+ Channel 188
+VbolMax 0.0201257 @Vbias 9.00652
+Maximum of PAmp vs Ibol curve 0.0524862
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 337.106
+There are 2.33333 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.33333
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0524862		3.43225		322.76		 4.28593
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.853684
+------------------------------------------------------
+ Channel 189
+VbolMax 0.01858 @Vbias 8.57837
+Maximum of PAmp vs Ibol curve 0.0421786
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 341.862
+There are 3.5 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 3.5
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0421786		3.86173		341.862		 4.72007
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.858341
+------------------------------------------------------
+ Channel 190
+VbolMax 0.0200088 @Vbias 8.98761
+Maximum of PAmp vs Ibol curve 0.000573614
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 2.71002
+There are 0 flexes in the pulse at max SNR 
+max SNR position 6
+number of Flexes 0
+Deformed pulse: get as best point WP, the 6 point before the maxSNR curve 
+0.000406418		5.99167		2.71002		 5.99167
+	 Channel with no pulser; VbiasWP set to default value = 3 V 
+VbiasMaxSNR - VbiasMaxPAmp [mV] 2.99167
+------------------------------------------------------
+ Channel 191
+VbolMax 0.0185615 @Vbias 9.0093
+Maximum of PAmp vs Ibol curve 0.0339842
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 277.247
+There are 2 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0339842		3.85953		272.55		 4.72089
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.861367
+------------------------------------------------------
+ Channel 192
+VbolMax 0.0150396 @Vbias 8.99057
+Maximum of PAmp vs Ibol curve 0.0394257
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 293.785
+There are 2.8 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2.8
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0394257		4.28245		293.785		 5.13585
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.853404
+------------------------------------------------------
+ Channel 193
+VbolMax 0.0188695 @Vbias 8.15146
+Maximum of PAmp vs Ibol curve 0.0353838
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 236.035
+There are 3.55556 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 3.55556
+number of Flexes 3.44444
+Deformed pulse: get as best point WP, the 7 point before the maxSNR curve 
+0.0353838		3.86092		236.035		 3.86092
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 194
+VbolMax 0.014188 @Vbias 9.00739
+Maximum of PAmp vs Ibol curve 0.0265219
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 155.981
+There are 3.4 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0265219		4.28942		155.981		 5.14737
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.857954
+------------------------------------------------------
+ Channel 195
+VbolMax 0.0201666 @Vbias 8.57778
+Maximum of PAmp vs Ibol curve 0.0462104
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 281.639
+There are 2.7 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.7
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0462104		3.43039		269.136		 4.28736
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.856967
+------------------------------------------------------
+ Channel 196
+VbolMax 0.0187823 @Vbias 9.00849
+Maximum of PAmp vs Ibol curve 0.0434063
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 355.927
+There are 2 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0434063		3.86099		355.927		 4.28778
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.426786
+------------------------------------------------------
+ Channel 197
+VbolMax 0.00944507 @Vbias 9.00669
+Maximum of PAmp vs Ibol curve 0.0468607
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 438.658
+There are 2.25 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.25
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0468607		4.28935		438.658		 6.00961
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.72026
+------------------------------------------------------
+ Channel 198
+VbolMax 0.0193917 @Vbias 8.98686
+Maximum of PAmp vs Ibol curve 0.0393061
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 364.64
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0393061		4.7064		364.64		 5.56558
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.859188
+------------------------------------------------------
+ Channel 199
+VbolMax 0.01862 @Vbias 8.99052
+Maximum of PAmp vs Ibol curve 0.0461667
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 347.204
+There are 2 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0461667		3.853		347.204		 4.28057
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.427568
+------------------------------------------------------
+ Channel 200
+VbolMax 0.0198783 @Vbias 9.00758
+Maximum of PAmp vs Ibol curve 0.0463505
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 381.305
+There are 2 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0463505		3.43428		370.177		 4.28869
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.854406
+------------------------------------------------------
+ Channel 201
+VbolMax 0.0197115 @Vbias 9.00585
+Maximum of PAmp vs Ibol curve 0.0480516
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 404.049
+There are 2 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0480516		3.43014		383.685		 4.29057
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.860434
+------------------------------------------------------
+ Channel 202
+VbolMax 0.0195705 @Vbias 8.56062
+Maximum of PAmp vs Ibol curve 0.0451519
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 320.72
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0451519		3.85233		256.387		 4.70773
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.8554
+------------------------------------------------------
+ Channel 203
+VbolMax 0.0186625 @Vbias 9.0098
+Maximum of PAmp vs Ibol curve 0.0400475
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 313.512
+There are 2.5 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.5
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0400475		3.85992		251.602		 4.72126
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.861346
+------------------------------------------------------
+ Channel 204
+VbolMax 0.0179947 @Vbias 9.01026
+Maximum of PAmp vs Ibol curve 0.0438462
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 339.216
+There are 2.1 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.1
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0438462		3.86208		331.491		 4.72024
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.858162
+------------------------------------------------------
+ Channel 205
+VbolMax 0.0192451 @Vbias 9.01122
+Maximum of PAmp vs Ibol curve 0.0385733
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 302.787
+There are 3.7 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.7
+number of Flexes 3.6
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0385733		4.29162		302.787		 5.14791
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.856292
+------------------------------------------------------
+ Channel 206
+VbolMax 0.0197685 @Vbias 9.00849
+Maximum of PAmp vs Ibol curve 0.0388061
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 314.354
+There are 3.66667 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.66667
+number of Flexes 3.625
+number of Flexes 3.5
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0388061		4.29124		314.354		 4.71765
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.42641
+------------------------------------------------------
+ Channel 207
+VbolMax 0.0185966 @Vbias 9.00774
+Maximum of PAmp vs Ibol curve 0.0714044
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 464.079
+There are 2.44444 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.44444
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0714044		3.43245		452.174		 4.29038
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.857925
+------------------------------------------------------
+ Channel 208
+VbolMax 0.0199877 @Vbias 9.00667
+Maximum of PAmp vs Ibol curve 0.0409739
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 261.831
+There are 3.66667 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.66667
+number of Flexes 3.6
+number of Flexes 3.55556
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0409739		4.28994		261.831		 4.71831
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.428378
+------------------------------------------------------
+ Channel 209
+VbolMax 0.0114289 @Vbias 8.56314
+Maximum of PAmp vs Ibol curve 0.047711
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 403.458
+There are 3.11111 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.11111
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.047711		3.67212		387.156		 4.49064
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.818522
+------------------------------------------------------
+ Channel 210
+VbolMax 0.0111042 @Vbias 8.56614
+Maximum of PAmp vs Ibol curve 0.0462554
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 364.938
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0462554		3.67421		357.639		 4.48901
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.8148
+------------------------------------------------------
+ Channel 211
+VbolMax 0.0103011 @Vbias 8.52377
+Maximum of PAmp vs Ibol curve 0.0318604
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 298.189
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0318604		4.87269		298.189		 6.49836
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.62567
+------------------------------------------------------
+ Channel 212
+VbolMax 0.0106636 @Vbias 8.48381
+Maximum of PAmp vs Ibol curve 0.0412969
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 348.011
+There are 2.11111 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2.11111
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0412969		3.63896		348.011		 4.84765
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.2087
+------------------------------------------------------
+ Channel 213
+VbolMax 0.0114354 @Vbias 8.44245
+Maximum of PAmp vs Ibol curve 0.0441887
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 283.135
+There are 2.85714 flexes in the pulse at max SNR 
+max SNR position 16
+number of Flexes 2.85714
+Deformed pulse: get as best point WP, the 16 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0441887		3.61945		272.114		 4.42307
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.803616
+------------------------------------------------------
+ Channel 214
+VbolMax 0.00971064 @Vbias 8.37608
+Maximum of PAmp vs Ibol curve 0.0216728
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 178.961
+There are 3 flexes in the pulse at max SNR 
+max SNR position 16
+number of Flexes 3
+Deformed pulse: get as best point WP, the 16 point before the maxSNR curve 
+0.0216728		6.38557		178.961		 6.7859
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.400329
+------------------------------------------------------
+ Channel 215
+VbolMax 0.00957508 @Vbias 8.31555
+Maximum of PAmp vs Ibol curve 0.0365748
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 272.757
+There are 2 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0365748		3.56557		262.511		 4.35422
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.788644
+------------------------------------------------------
+ Channel 216
+VbolMax 0.0097434 @Vbias 8.56996
+Maximum of PAmp vs Ibol curve 0.0153522
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.625 flexes in the pulse at max SNR 
+max SNR position 0
+0.0153522		7.75249		0		 7.75249
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 217
+VbolMax 0.0216391 @Vbias 8.52538
+Maximum of PAmp vs Ibol curve 0.0398728
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 151.823
+There are 2.1 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.1
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0398728		4.06004		151.823		 4.06004
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 218
+VbolMax 0.0192307 @Vbias 8.48167
+Maximum of PAmp vs Ibol curve 0.0396906
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 175.057
+There are 2.125 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.125
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0396906		3.23355		175.057		 4.04347
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.809929
+------------------------------------------------------
+ Channel 219
+VbolMax 0.0191582 @Vbias 7.23707
+Maximum of PAmp vs Ibol curve 0.0421515
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 140.168
+There are 2 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0421515		3.21632		140.168		 4.0202
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.803884
+------------------------------------------------------
+ Channel 220
+VbolMax 0.0216363 @Vbias 7.18011
+Maximum of PAmp vs Ibol curve 0.0412342
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 139.485
+There are 2 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0412342		3.59188		139.485		 3.99132
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.399441
+------------------------------------------------------
+ Channel 221
+VbolMax 0.0206671 @Vbias 7.12547
+Maximum of PAmp vs Ibol curve 0.0458098
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 126.593
+There are 2.5 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.5
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0458098		3.17044		122.867		 3.95795
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.787511
+------------------------------------------------------
+ Channel 222
+VbolMax 0.0107475 @Vbias 8.54777
+Maximum of PAmp vs Ibol curve 0.0325294
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 242.596
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0325294		4.882		242.596		 6.1058
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.2238
+------------------------------------------------------
+ Channel 223
+VbolMax 0.0103532 @Vbias 8.57024
+Maximum of PAmp vs Ibol curve 0.0274676
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 262.177
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0274676		5.30464		262.177		 6.11931
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.814668
+------------------------------------------------------
+ Channel 224
+VbolMax 0.0111957 @Vbias 8.52603
+Maximum of PAmp vs Ibol curve 0.0335575
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 0.111111 flexes in the pulse at max SNR 
+max SNR position 0
+0.0335575		7.71618		0		 7.71618
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 225
+VbolMax 0.0107173 @Vbias 7.67204
+Maximum of PAmp vs Ibol curve 0.00139222
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 2.93196
+There are 0 flexes in the pulse at max SNR 
+max SNR position 3
+number of Flexes 0
+Deformed pulse: get as best point WP, the 3 point before the maxSNR curve 
+0.000452418		2.42088		2.93196		 2.42088
+	 Channel with no pulser; VbiasWP set to default value = 3 V 
+VbiasMaxSNR - VbiasMaxPAmp [mV] -0.579118
+------------------------------------------------------
+ Channel 226
+VbolMax 0.0106959 @Vbias 8.04033
+Maximum of PAmp vs Ibol curve 0.0454446
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 288.501
+There are 2.11111 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.11111
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0454446		3.6217		288.501		 4.02224
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.400539
+------------------------------------------------------
+ Channel 227
+VbolMax 0.00898186 @Vbias 8.38167
+Maximum of PAmp vs Ibol curve 0.0304538
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 175.295
+There are 2.66667 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.66667
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0304538		4.39024		175.295		 5.58604
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.19581
+------------------------------------------------------
+ Channel 228
+VbolMax 0.00988531 @Vbias 8.33606
+Maximum of PAmp vs Ibol curve 0.030536
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 195.769
+There are 2.4 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2.4
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.030536		4.3655		195.769		 4.3655
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 229
+VbolMax 0.0081804 @Vbias 8.56439
+Maximum of PAmp vs Ibol curve 0.0332315
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 172.035
+There are 2 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0332315		4.08324		172.035		 4.08324
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 230
+VbolMax 0.0214642 @Vbias 7.31135
+Maximum of PAmp vs Ibol curve 0.0478205
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 258.694
+There are 2.14286 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.14286
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0478205		3.24919		258.694		 4.06262
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.813431
+------------------------------------------------------
+ Channel 231
+VbolMax 0.0184024 @Vbias 7.2741
+Maximum of PAmp vs Ibol curve 0.0347748
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 240.513
+There are 2.3 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.3
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0347748		4.446		240.513		 5.65794
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.21193
+------------------------------------------------------
+ Channel 232
+VbolMax 0.0183099 @Vbias 7.23749
+Maximum of PAmp vs Ibol curve 0.039412
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 199.9
+There are 2 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.039412		3.21636		198.175		 4.01998
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.803619
+------------------------------------------------------
+ Channel 233
+VbolMax 0.0230023 @Vbias 8.37726
+Maximum of PAmp vs Ibol curve 0.037324
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 158.261
+There are 3.4 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.037324		4.38768		158.261		 5.98872
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.60103
+------------------------------------------------------
+ Channel 234
+VbolMax 0.0190479 @Vbias 7.12628
+Maximum of PAmp vs Ibol curve 0.0404387
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 110.588
+There are 2.2 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2.2
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0404387		3.56544		110.588		 3.9604
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.394964
+------------------------------------------------------
+ Channel 235
+VbolMax 0.0219775 @Vbias 8.48436
+Maximum of PAmp vs Ibol curve 0.0420128
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 351.761
+There are 3.57143 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.57143
+number of Flexes 3.2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0420128		4.04182		351.761		 5.65462
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.6128
+------------------------------------------------------
+ Channel 236
+VbolMax 0.0229705 @Vbias 8.56743
+Maximum of PAmp vs Ibol curve 0.0491183
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 278.807
+There are 3.33333 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0491183		3.66986		268.538		 4.48867
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.818812
+------------------------------------------------------
+ Channel 237
+VbolMax 0.0206757 @Vbias 8.52537
+Maximum of PAmp vs Ibol curve 0.0291311
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 159.809
+There are 3 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+0.0291311		5.27675		159.809		 6.49463
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.21787
+------------------------------------------------------
+ Channel 238
+VbolMax 0.0222455 @Vbias 8.48323
+Maximum of PAmp vs Ibol curve 0.0428863
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 128.221
+There are 3.42857 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.42857
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0428863		4.04204		120.734		 4.84792
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.805872
+------------------------------------------------------
+ Channel 239
+VbolMax 0.0208491 @Vbias 8.43846
+Maximum of PAmp vs Ibol curve 0.040588
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 370.155
+There are 3.2 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.2
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.040588		4.02172		363.814		 4.82038
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.798658
+------------------------------------------------------
+ Channel 240
+VbolMax 0.0226389 @Vbias 8.37904
+Maximum of PAmp vs Ibol curve 0.0399748
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 339.927
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0399748		4.38903		339.927		 4.38903
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 241
+VbolMax 0.0199898 @Vbias 8.31687
+Maximum of PAmp vs Ibol curve 0.0395539
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 67.4102
+There are 4.3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 4.3
+number of Flexes 5.1
+number of Flexes 4.5
+number of Flexes 5
+number of Flexes 4.5
+number of Flexes 4.4
+number of Flexes 3.7
+number of Flexes 4.1
+number of Flexes 4
+number of Flexes 4.2
+number of Flexes 3.9
+number of Flexes 3.88889
+number of Flexes 4
+number of Flexes 4.4
+This is a very noisy channel, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0395539		3.96019		59.1656		 4.75201
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.791818
+------------------------------------------------------
+ Channel 242
+VbolMax 0.0198098 @Vbias 8.15865
+Maximum of PAmp vs Ibol curve 0.0381517
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 79.3684
+There are 4.6 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 4.6
+number of Flexes 4.3
+number of Flexes 4.22222
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0381517		3.67101		79.3684		 5.30356
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.63255
+------------------------------------------------------
+ Channel 243
+VbolMax 0.0217105 @Vbias 8.52464
+Maximum of PAmp vs Ibol curve 0.0329831
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 204.893
+There are 3.22222 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.22222
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0329831		4.87224		204.893		 6.49788
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.62565
+------------------------------------------------------
+ Channel 244
+VbolMax 0.020857 @Vbias 7.27368
+Maximum of PAmp vs Ibol curve 0.0403761
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 299.145
+There are 3.2 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 3.2
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0403761		3.63853		299.145		 4.44571
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.80718
+------------------------------------------------------
+ Channel 245
+VbolMax 0.0202343 @Vbias 8.44269
+Maximum of PAmp vs Ibol curve 0.0223414
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 127.098
+There are 3 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+0.0223414		5.62506		127.098		 6.43213
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.807076
+------------------------------------------------------
+ Channel 246
+VbolMax 0.0208347 @Vbias 7.18189
+Maximum of PAmp vs Ibol curve 0.0536562
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 161.565
+There are 2.16667 flexes in the pulse at max SNR 
+max SNR position 8
+number of Flexes 2.16667
+Deformed pulse: get as best point WP, the 8 point before the maxSNR curve 
+0.0536562		2.79394		161.565		 3.99184
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.1979
+------------------------------------------------------
+ Channel 247
+VbolMax 0.0194225 @Vbias 8.31648
+Maximum of PAmp vs Ibol curve 0.0373687
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 97.8566
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0373687		3.96183		97.8566		 5.94333
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.98149
+------------------------------------------------------
+ Channel 248
+VbolMax 0.0201245 @Vbias 7.63445
+Maximum of PAmp vs Ibol curve 0.0356471
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 223.301
+There are 3.7 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 3.7
+number of Flexes 3.6
+number of Flexes 3.625
+number of Flexes 2.77778
+Deformed pulse: get as best point WP, the 6 point before the maxSNR curve 
+0.0356471		3.21848		223.301		 3.21848
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 249
+VbolMax 0.0240562 @Vbias 5.35669
+Maximum of PAmp vs Ibol curve 0.0984066
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 658.072
+There are 3.5 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.5
+number of Flexes 4.2
+number of Flexes 4
+number of Flexes 4
+number of Flexes 3.8
+number of Flexes 3
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0984066		3.3136		658.072		 3.3136
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 250
+VbolMax 0.020553 @Vbias 8.52434
+Maximum of PAmp vs Ibol curve 0.0329592
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 241.505
+There are 3.1 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.1
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0329592		4.46963		241.505		 5.67959
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.20996
+------------------------------------------------------
+ Channel 251
+VbolMax 0.0172971 @Vbias 8.48184
+Maximum of PAmp vs Ibol curve 0.0480538
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 291.507
+There are 2 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0480538		3.63637		281.519		 4.44463
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.808264
+------------------------------------------------------
+ Channel 252
+VbolMax 0.0222446 @Vbias 6.32853
+Maximum of PAmp vs Ibol curve 0.0352726
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 292.688
+There are 3.2 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.2
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0352726		3.99527		292.688		 4.66147
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.6662
+------------------------------------------------------
+ Channel 253
+VbolMax 0.0215185 @Vbias 8.39844
+Maximum of PAmp vs Ibol curve 0.0435434
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 378.426
+There are 2.8 flexes in the pulse at max SNR 
+max SNR position 11
+number of Flexes 2.8
+Deformed pulse: get as best point WP, the 11 point before the maxSNR curve 
+0.0435434		3.6015		378.426		 4.79882
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.19733
+------------------------------------------------------
+ Channel 254
+VbolMax 0.0182882 @Vbias 8.33529
+Maximum of PAmp vs Ibol curve 0.0239279
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 208.353
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0239279		5.16277		208.353		 5.56011
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.397343
+------------------------------------------------------
+ Channel 255
+VbolMax 0.0151975 @Vbias 8.56943
+Maximum of PAmp vs Ibol curve 0.0322713
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 257.242
+There are 2 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0322713		3.67208		207.496		 4.48769
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.815608
+------------------------------------------------------
+ Channel 256
+VbolMax 0.0207979 @Vbias 7.71609
+Maximum of PAmp vs Ibol curve 0.0437631
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 310.991
+There are 3.22222 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.22222
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0437631		3.65771		297.96		 4.46673
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.809023
+------------------------------------------------------
+ Channel 257
+VbolMax 0.0196212 @Vbias 8.48334
+Maximum of PAmp vs Ibol curve 0.0336509
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 107.258
+There are 4.1 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 4.1
+number of Flexes 3.6
+number of Flexes 4
+number of Flexes 3.9
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0336509		4.04305		107.258		 4.84527
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.802223
+------------------------------------------------------
+ Channel 258
+VbolMax 0.0169455 @Vbias 8.43984
+Maximum of PAmp vs Ibol curve 0.0422015
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 223.624
+There are 2 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0422015		3.21532		223.624		 4.02146
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.806146
+------------------------------------------------------
+ Channel 259
+VbolMax 0.017116 @Vbias 7.98055
+Maximum of PAmp vs Ibol curve 0.0414671
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 211.368
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0414671		3.1926		202.848		 3.99177
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.799172
+------------------------------------------------------
+ Channel 260
+VbolMax 0.0187616 @Vbias 8.33598
+Maximum of PAmp vs Ibol curve 0.0410418
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 125.641
+There are 2.5 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.5
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0410418		3.17513		122.42		 3.96933
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.794198
+------------------------------------------------------
+ Channel 261
+VbolMax 0.0257034 @Vbias 8.10597
+Maximum of PAmp vs Ibol curve 0.0550326
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 383.866
+There are 3.125 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.125
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0550326		3.47472		358.788		 4.24477
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.770054
+------------------------------------------------------
+ Channel 262
+VbolMax 0.0210504 @Vbias 6.65853
+Maximum of PAmp vs Ibol curve 0.0285211
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 256.448
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0285211		4.44357		256.448		 5.18115
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.737582
+------------------------------------------------------
+ Channel 263
+VbolMax 0.0215737 @Vbias 5.90212
+Maximum of PAmp vs Ibol curve 0.0441138
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 365.396
+There are 3.11111 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.11111
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0441138		3.54065		365.396		 4.42445
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.883801
+------------------------------------------------------
+ Channel 264
+VbolMax 0.0240271 @Vbias 8.48381
+Maximum of PAmp vs Ibol curve 0.0440351
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 378.373
+There are 3.1 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.1
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0440351		4.04027		365.438		 4.84737
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.807105
+------------------------------------------------------
+ Channel 265
+VbolMax 0.0223021 @Vbias 8.44174
+Maximum of PAmp vs Ibol curve 0.0541997
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 426.842
+There are 3.11111 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.11111
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0541997		3.21853		402.271		 4.02374
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.80521
+------------------------------------------------------
+ Channel 266
+VbolMax 0.0222697 @Vbias 6.99443
+Maximum of PAmp vs Ibol curve 0.0430048
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 313.986
+There are 3.3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0430048		3.99793		313.986		 5.32627
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.32834
+------------------------------------------------------
+ Channel 267
+VbolMax 0.0100195 @Vbias 8.3175
+Maximum of PAmp vs Ibol curve 0.0417546
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 291.247
+There are 2 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0417546		3.16803		279.017		 3.96059
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.79256
+------------------------------------------------------
+ Channel 268
+VbolMax 0.0220253 @Vbias 8.56593
+Maximum of PAmp vs Ibol curve 0.0280602
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 204.99
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0280602		5.71027		204.99		 6.52649
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.81622
+------------------------------------------------------
+ Channel 269
+VbolMax 0.0210724 @Vbias 8.5255
+Maximum of PAmp vs Ibol curve 0.0492753
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 278.604
+There are 2 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0492753		3.2489		278.604		 4.06221
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.813318
+------------------------------------------------------
+ Channel 270
+VbolMax 0.0224063 @Vbias 7.27181
+Maximum of PAmp vs Ibol curve 0.0341779
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 205.239
+There are 3 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0341779		4.44459		205.239		 5.65484
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.21025
+------------------------------------------------------
+ Channel 271
+VbolMax 0.0227554 @Vbias 7.23632
+Maximum of PAmp vs Ibol curve 0.0473425
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 223.714
+There are 3.33333 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0473425		3.62		213.655		 4.42184
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.801841
+------------------------------------------------------
+ Channel 272
+VbolMax 0.0238009 @Vbias 8.40122
+Maximum of PAmp vs Ibol curve 0.0516641
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 177.354
+There are 3.6 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.6
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0516641		3.20492		177.216		 4.0017
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.796786
+------------------------------------------------------
+ Channel 273
+VbolMax 0.0215613 @Vbias 6.59136
+Maximum of PAmp vs Ibol curve 0.0484422
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 53.2551
+There are 2.5 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 2.5
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0484422		2.19866		45.1026		 2.82258
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.623916
+------------------------------------------------------
+ Channel 274
+VbolMax 0.0234223 @Vbias 8.31721
+Maximum of PAmp vs Ibol curve 0.0313828
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 248.003
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0313828		5.54496		248.003		 5.94008
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.395124
+------------------------------------------------------
+ Channel 275
+VbolMax 0.0187457 @Vbias 8.56898
+Maximum of PAmp vs Ibol curve 0.0412228
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 373.993
+There are 2.1 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.1
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0412228		3.6724		268.476		 4.48682
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.814416
+------------------------------------------------------
+ Channel 276
+VbolMax 0.0228437 @Vbias 8.52738
+Maximum of PAmp vs Ibol curve 0.0482221
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 384.568
+There are 3.22222 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.22222
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0482221		3.24812		374.98		 4.05928
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.811159
+------------------------------------------------------
+ Channel 277
+VbolMax 0.0196686 @Vbias 8.48292
+Maximum of PAmp vs Ibol curve 0.053168
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 423.264
+There are 2 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 2
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.053168		3.23286		423.264		 4.44624
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.21338
+------------------------------------------------------
+ Channel 278
+VbolMax 0.0115939 @Vbias 8.44184
+Maximum of PAmp vs Ibol curve 0.0442973
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 324.766
+There are 3.33333 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0442973		4.42199		324.766		 6.03194
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.60996
+------------------------------------------------------
+ Channel 279
+VbolMax 0.0240861 @Vbias 7.39095
+Maximum of PAmp vs Ibol curve 0.0618855
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 384.297
+There are 3.33333 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.33333
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0618855		2.81582		362.217		 3.52128
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.705461
+------------------------------------------------------
+ Channel 280
+VbolMax 0.0232047 @Vbias 5.7917
+Maximum of PAmp vs Ibol curve 0.0598533
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 429.123
+There are 3.125 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.125
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0598533		3.03782		429.123		 3.86046
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.822643
+------------------------------------------------------
+ Channel 281
+VbolMax 0.0237303 @Vbias 8.1595
+Maximum of PAmp vs Ibol curve 0.0472467
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 321.125
+There are 3.375 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.375
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0472467		4.07742		298.812		 4.89958
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.822159
+------------------------------------------------------
+ Channel 282
+VbolMax 0.0180297 @Vbias 8.52658
+Maximum of PAmp vs Ibol curve 0.0384419
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 217.131
+There are 2.875 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 2.875
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0384419		4.87297		217.131		 5.68087
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.807908
+------------------------------------------------------
+ Channel 283
+VbolMax 0.0176118 @Vbias 8.48391
+Maximum of PAmp vs Ibol curve 0.0442781
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 285.845
+There are 2.125 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2.125
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0442781		3.63596		285.845		 4.04314
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.407179
+------------------------------------------------------
+ Channel 284
+VbolMax 0.0217226 @Vbias 8.44137
+Maximum of PAmp vs Ibol curve 0.0430362
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 142.615
+There are 3.55556 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.55556
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0430362		3.21797		129.462		 4.02159
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.803612
+------------------------------------------------------
+ Channel 285
+VbolMax 0.0255391 @Vbias 7.77369
+Maximum of PAmp vs Ibol curve 0.0484567
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 269.428
+There are 3.6 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.6
+number of Flexes 3.55556
+number of Flexes 3.66667
+number of Flexes 3.875
+number of Flexes 4.1
+number of Flexes 3.88889
+number of Flexes 3.66667
+number of Flexes 2.83333
+Deformed pulse: get as best point WP, the 6 point before the maxSNR curve 
+0.0484567		4.44185		269.428		 4.44185
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 286
+VbolMax 0.0214813 @Vbias 7.53944
+Maximum of PAmp vs Ibol curve 0.0350245
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 132.111
+There are 3.4 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.4
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0350245		3.96986		132.111		 5.56217
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.5923
+------------------------------------------------------
+ Channel 287
+VbolMax 0.0375528 @Vbias 4.59755
+Maximum of PAmp vs Ibol curve 0.0690584
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+looking for maxSNR only in one pt 
+Maximum of SNR vs Ibol curve 0
+There are 1.77778 flexes in the pulse at max SNR 
+max SNR position 0
+0.0682496		4.16077		0		 4.16077
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 288
+VbolMax 0.0220695 @Vbias 5.60445
+Maximum of PAmp vs Ibol curve 0.0524759
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 389.296
+There are 3.44444 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 3.44444
+Deformed pulse: get as best point WP, the 12 point before the maxSNR curve 
+0.0524759		2.94791		389.296		 4.13244
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.18453
+------------------------------------------------------
+ Channel 289
+VbolMax 0.0220134 @Vbias 8.58605
+Maximum of PAmp vs Ibol curve 0.040733
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 338.371
+There are 3.22222 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.22222
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.040733		4.09256		320.197		 4.91001
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.817451
+------------------------------------------------------
+ Channel 290
+VbolMax 0.0102326 @Vbias 8.54593
+Maximum of PAmp vs Ibol curve 0.0403836
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 334.797
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0403836		4.07313		317.888		 4.88374
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.810603
+------------------------------------------------------
+ Channel 291
+VbolMax 0.0147139 @Vbias 8.50459
+Maximum of PAmp vs Ibol curve 0.0724314
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 428.203
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0724314		3.24033		404.569		 4.05179
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.811457
+------------------------------------------------------
+ Channel 292
+VbolMax 0.0282338 @Vbias 6.97427
+Maximum of PAmp vs Ibol curve 0.0739298
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 390.758
+There are 3.22222 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.22222
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0739298		2.99014		362.177		 3.65292
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.662776
+------------------------------------------------------
+ Channel 293
+VbolMax 0.0236776 @Vbias 8.39928
+Maximum of PAmp vs Ibol curve 0.0375602
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 301.711
+There are 3.125 flexes in the pulse at max SNR 
+max SNR position 15
+number of Flexes 3.125
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+0.0375602		5.19856		301.711		 6.40168
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.20311
+------------------------------------------------------
+ Channel 294
+VbolMax 0.0214125 @Vbias 8.6292
+Maximum of PAmp vs Ibol curve 0.0447867
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 257.531
+There are 2.9 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.9
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0447867		3.28906		246.343		 4.1143
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.825239
+------------------------------------------------------
+ Channel 295
+VbolMax 0.0270747 @Vbias 5.79567
+Maximum of PAmp vs Ibol curve 0.0694597
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 361.738
+There are 3.375 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.375
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0694597		3.58956		361.738		 4.14392
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.55436
+------------------------------------------------------
+ Channel 296
+VbolMax 0.0203457 @Vbias 8.54653
+Maximum of PAmp vs Ibol curve 0.0497732
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 262.211
+There are 2.125 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2.125
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0497732		3.6647		262.211		 4.07023
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.405528
+------------------------------------------------------
+ Channel 297
+VbolMax 0.0203211 @Vbias 8.50526
+Maximum of PAmp vs Ibol curve 0.0433864
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 161.163
+There are 2.625 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 2.625
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0433864		3.6462		152.435		 4.4567
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.810499
+------------------------------------------------------
+ Channel 298
+VbolMax 0.0254239 @Vbias 7.79071
+Maximum of PAmp vs Ibol curve 0.0509463
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 210.058
+There are 3.77778 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.77778
+number of Flexes 3.57143
+number of Flexes 3.66667
+number of Flexes 3.57143
+number of Flexes 3.8
+number of Flexes 1.5
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0509463		3.33828		210.058		 4.0832
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.744923
+------------------------------------------------------
+ Channel 299
+VbolMax 0.0216367 @Vbias 6.68744
+Maximum of PAmp vs Ibol curve 0.0409343
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 53.2125
+There are 5 flexes in the pulse at max SNR 
+max SNR position 12
+number of Flexes 5
+number of Flexes 4.83333
+number of Flexes 4.5
+number of Flexes 5.33333
+number of Flexes 3.75
+number of Flexes 4.16667
+number of Flexes 4.33333
+number of Flexes 4
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 4 point before the maxSNR curve 
+0.0409343		3.16964		53.2125		 3.16964
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 300
+VbolMax 0.0233189 @Vbias 6.32763
+Maximum of PAmp vs Ibol curve 0.0316161
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 164.783
+There are 3 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+0.0316161		4.32697		164.783		 4.99152
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.664552
+------------------------------------------------------
+ Channel 301
+VbolMax 0.0212005 @Vbias 8.63151
+Maximum of PAmp vs Ibol curve 0.0442025
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 163.019
+There are 2.75 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.75
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0442025		2.87506		144.342		 3.70075
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.825689
+------------------------------------------------------
+ Channel 302
+VbolMax 0.0202594 @Vbias 7.77527
+Maximum of PAmp vs Ibol curve 0.0409799
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 363.516
+There are 3.375 flexes in the pulse at max SNR 
+max SNR position 10
+number of Flexes 3.375
+Deformed pulse: get as best point WP, the 10 point before the maxSNR curve 
+0.0409799		3.68321		363.516		 4.50093
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.817724
+------------------------------------------------------
+ Channel 303
+VbolMax 0.0203972 @Vbias 8.54449
+Maximum of PAmp vs Ibol curve 0.0418496
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 255.523
+There are 2.33333 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.33333
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0418496		2.84714		239.594		 3.66486
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.817725
+------------------------------------------------------
+ Channel 304
+VbolMax 0.0233189 @Vbias 7.0321
+Maximum of PAmp vs Ibol curve 0.0503447
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 118.815
+There are 3.55556 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3.55556
+number of Flexes 4.33333
+number of Flexes 3.66667
+number of Flexes 4
+number of Flexes 3.8
+number of Flexes 4.11111
+number of Flexes 3.44444
+Deformed pulse: get as best point WP, the 7 point before the maxSNR curve 
+0.0503447		3.70186		118.815		 3.70186
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 305
+VbolMax 0.030535 @Vbias 7.39339
+Maximum of PAmp vs Ibol curve 0.0714186
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 371.713
+There are 3.66667 flexes in the pulse at max SNR 
+max SNR position 16
+number of Flexes 3.66667
+number of Flexes 3.44444
+Deformed pulse: get as best point WP, the 15 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.0714186		3.16945		359.873		 3.86952
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.70007
+------------------------------------------------------
+ Channel 306
+VbolMax 0.0107427 @Vbias 8.39988
+Maximum of PAmp vs Ibol curve 0.0323107
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 279.777
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0323107		5.20105		279.777		 6.0011
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.800051
+------------------------------------------------------
+ Channel 307
+VbolMax 0.0207741 @Vbias 8.62895
+Maximum of PAmp vs Ibol curve 0.04895
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 297.998
+There are 2.14286 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 2.14286
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.04895		3.70095		292.782		 4.52219
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.821238
+------------------------------------------------------
+ Channel 308
+VbolMax 0.0193326 @Vbias 8.58722
+Maximum of PAmp vs Ibol curve 0.0456563
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 283.451
+There are 2 flexes in the pulse at max SNR 
+max SNR position 9
+number of Flexes 2
+Deformed pulse: get as best point WP, the 9 point before the maxSNR curve 
+0.0456563		3.27406		283.451		 4.49956
+VbiasMaxSNR - VbiasMaxPAmp [mV] 1.2255
+------------------------------------------------------
+ Channel 309
+VbolMax 0.0222084 @Vbias 8.54442
+Maximum of PAmp vs Ibol curve 0.055278
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 317.1
+There are 3.25 flexes in the pulse at max SNR 
+max SNR position 14
+number of Flexes 3.25
+Deformed pulse: get as best point WP, the 14 point before the maxSNR curve 
+deltaV > 2 V, assign to Vbias@SNRMAX the value of Vbias@MaxPAmp + 2 steps
+0.055278		3.26056		315.587		 4.07266
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.812096
+------------------------------------------------------
+ Channel 310
+VbolMax 0.0218677 @Vbias 8.50525
+Maximum of PAmp vs Ibol curve 0.0211828
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 124.412
+There are 3 flexes in the pulse at max SNR 
+max SNR position 13
+number of Flexes 3
+Deformed pulse: get as best point WP, the 13 point before the maxSNR curve 
+0.0211828		5.26204		124.412		 6.07716
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0.815115
+------------------------------------------------------
+ Channel 311
+VbolMax 0.0261163 @Vbias 5.37669
+Maximum of PAmp vs Ibol curve 0.0391405
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 0
+There are 1.875 flexes in the pulse at max SNR 
+max SNR position 0
+0.0389878		4.60982		0		 4.60982
+VbiasMaxSNR - VbiasMaxPAmp [mV] 0
+------------------------------------------------------
+ Channel 312
+VbolMax 0.0248047 @Vbias 5.24239
+Maximum of PAmp vs Ibol curve 0.00177781
+Warning: non real max along the load curve - remove this point 
+Check for maximum SNR in range [VbiasMaxAmpli,VbiasInvPt-3] 
+Maximum of SNR vs Ibol curve 4.87132
+There are 0 flexes in the pulse at max SNR 
+max SNR position 1
+number of Flexes 0
+Deformed pulse: get as best point WP, the 1 point before the maxSNR curve 
+0.00122737		1.37766		4.87132		 1.92974
+	 Channel with no pulser; VbiasWP set to default value = 3 V 
+VbiasMaxSNR - VbiasMaxPAmp [mV] -1.07026
