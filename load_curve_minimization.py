@@ -32,7 +32,7 @@ def neg_loglike(circuit_params, VBias, alpha, beta, k, Rl, prior_sigma = 1, verb
         iteration_counter += 1
         
         if verbose:
-            print("Iteration {0} finished in {1} minutes with Log Likelihood {2}".format(iteration_counter,time_taken,round(log_like_power,2)))
+            print("Iteration {0} finished in {1} minutes: {2} with Log Likelihood {3}".format(iteration_counter,time_taken,circuit_params,round(log_like_power,2)))
         
         return log_like_power
 
