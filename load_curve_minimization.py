@@ -7,6 +7,7 @@ from scipy.stats import norm
 from scipy.optimize import minimize
 from skopt import gp_minimize
 import click
+import pickle
 
 def get_power(test_data):
     return np.divide(np.power(test_data.VBol,2),test_data.RBol)
@@ -55,7 +56,13 @@ def main():
     
     #print(res.x)
 
-    print(gp_minimize(neg_loglike, [(0.5, 3),(5,8)]))
+    res = gp_minimize(neg_loglike, [(0.5,3.0),(5.0,8.0)], x0=[R0,T0], n_calls=1000, n_random_starts = 50)
+
+    print('Result: {0}'.format(res.x))
+    print('Min Log Likelihood: {0}'.format(res.fun))
+
+    with open('r0t0minimized.pkl', 'w') as f:  # Python 3: open(..., 'wb')
+        pickle.dump(res, f)
 
 data = getCUOREData(486)
 
