@@ -336,7 +336,7 @@ def getFullModel(VBias,alpha,beta,k,R0,Rl,T0,Cp=5e-10,s=0.015,gamma=0.5):
 
         if VBol > VBol_max:
             VBol_max = VBol
-            pulse = np.subtract(result[5],result[5][0])
+            pulse = [temp - result[5][0] for temp in result[5]]
     
     #clean up
     del results
