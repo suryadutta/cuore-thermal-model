@@ -53,7 +53,7 @@ beta = [beta_params[param] for param in sorted(beta_params)]
 
 k = [k_params[param] for param in sorted(k_params)]
 
-ratio = 0.05
+ratio = 0.1
 
 
 for index, parameter in enumerate(alpha):
@@ -65,6 +65,7 @@ for index, parameter in enumerate(alpha):
 
     fig_lc, ax_lc = plt.subplots()
     fig_pulse, ax_pulse = plt.subplots()
+    fig_pulseAmp, ax_pulseAmp = plt.subplots()
 
     for new_parameter in [parameter*(1-3*ratio),parameter*(1-2*ratio), parameter*(1-ratio),parameter,parameter*(1+ratio),parameter*(1+2*ratio),parameter*(1+3*ratio)]:
         alpha_test = alpha[:]
@@ -82,11 +83,18 @@ for index, parameter in enumerate(alpha):
         t = np.linspace(0, 5,len(pulse))
         ax_pulse.plot(t,pulse,label='%.2E' % Decimal(str(new_parameter)))
 
+        ax_pulseAmp.plot(model.VBias,model.PulseAmp,label= '%.2E' % Decimal(str(new_parameter)))
+
+
     ax_lc.legend(loc='lower right', title=param_name)
     fig_lc.savefig("plot_output/loadcurve_{0}.png".format(param_name), bbox_inches='tight')
 
     ax_pulse.legend(loc='upper right', title=param_name)
     fig_pulse.savefig("plot_output/pulse_{0}.png".format(param_name), bbox_inches='tight')
+    
+    ax_pulseAmp.legend(loc='upper right', title=param_name)
+    fig_pulseAmp.savefig("plot_output/pulseAmp_{0}.png".format(param_name), bbox_inches='tight')
+
 
     time_taken = round((time.time()-start_time)/60.0,2)
     print('Done with parameter {0} in {1} mins'.format(param_name,time_taken))
