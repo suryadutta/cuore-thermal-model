@@ -56,7 +56,7 @@ def main():
     
     #print(res.x)
 
-    res = gp_minimize(neg_loglike, [(0.5,3.0),(5.0,8.0)], x0=[R0,T0], n_calls=1000, n_random_starts = 50)
+    res = gp_minimize(neg_loglike, [(0.5,3.0),(5.0,8.0)], x0=[R0,T0], n_calls=500, n_random_starts = 20)
 
     print('Result: {0}'.format(res.x))
     print('Min Log Likelihood: {0}'.format(res.fun))

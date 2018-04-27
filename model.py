@@ -313,7 +313,7 @@ def getLoadCurve(VBias,alpha,beta,k,R0,Rl,T0,Cp=5e-10,s=0.015,gamma=0.5):
 
 def getFullModel(VBias,alpha,beta,k,R0,Rl,T0,Cp=5e-10,s=0.015,gamma=0.5):
 
-    modeled_data = pd.DataFrame(columns=['VBias','VBol','RBol','IBol'])
+    modeled_data = pd.DataFrame(columns=['VBias','VBol','RBol','IBol','PulseAmp'])
         
     pool = mp.Pool(processes=len(VBias))
     results = [pool.apply_async(runFullModel, 
@@ -331,7 +331,10 @@ def getFullModel(VBias,alpha,beta,k,R0,Rl,T0,Cp=5e-10,s=0.015,gamma=0.5):
         VBol = result[2][-1]
         RBol = result[3][-1]
         IBol = VBol/RBol
-        df = pd.DataFrame([(result[0],VBol,RBol,IBol)],columns=['VBias','VBol','RBol','IBol'])
+
+        PulseAmp = max(result[5]) - result[5][0]
+
+        df = pd.DataFrame([(result[0],VBol,RBol,IBol, PulseAmp)],columns=['VBias','VBol','RBol','IBol','PulseAmp'])
         modeled_data = modeled_data.append(df)
 
         if VBol > VBol_max:
