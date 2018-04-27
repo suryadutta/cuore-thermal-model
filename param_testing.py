@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from scipy.interpolate import spline
 from decimal import Decimal
 
-from model import getLoadCurve, getCUOREData
+from model import getFullModel, getCUOREData
 
 alpha_params = {
     'a1': 2.7e-8,      # phonon 
@@ -70,7 +70,7 @@ for index, parameter in enumerate(alpha):
         alpha_test = alpha[:]
         alpha_test[index] = new_parameter
         print("New Value: {0}".format(alpha_test[index]))
-        model, pulse = getLoadCurve(getCUOREData(486).VBias,alpha_test,beta,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
+        model, pulse = getFullModel(getCUOREData(486).VBias,alpha_test,beta,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
         print(model)
         print('\n')
 
@@ -106,7 +106,7 @@ for index, parameter in enumerate(beta):
         beta_test = beta[:]
         beta_test[index] = new_parameter
         print("New Value: {0}".format(beta_test[index]))
-        model, pulse = getLoadCurve(getCUOREData(486).VBias,alpha,beta_test,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
+        model, pulse = getFullModel(getCUOREData(486).VBias,alpha,beta_test,k,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
         print(model)
         print('\n')
 
@@ -138,7 +138,7 @@ for index, parameter in enumerate(k):
         k_test = k[:]
         k_test[index] = new_parameter
         print("New Value: {0}".format(k_test[index]))
-        model, pulse = getLoadCurve(getCUOREData(486).VBias,alpha,beta,k_test,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
+        model, pulse = getFullModel(getCUOREData(486).VBias,alpha,beta,k_test,R0,Rl,T0,Cp,s=0.015,gamma=0.5)
         print(model)
         print('\n')
 
@@ -173,7 +173,7 @@ for index, parameter in enumerate([R0,T0,Rl,Cp]):
         circuit_test[index] = new_parameter
         print("New Value: {0}".format(circuit_test[index]))
         R0_n,T0_n,Rl_n,Cp_n = tuple(circuit_test)
-        model, pulse = getLoadCurve(getCUOREData(486).VBias,alpha,beta,k,R0_n,Rl_n,T0_n,Cp_n,s=0.015,gamma=0.5)
+        model, pulse = getFullModel(getCUOREData(486).VBias,alpha,beta,k,R0_n,Rl_n,T0_n,Cp_n,s=0.015,gamma=0.5)
         print(model)
         print('\n')
 
